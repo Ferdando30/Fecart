@@ -3568,3 +3568,1585 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.05-17.46.52:513][698]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPersonBP/Maps/L1.L1:PersistentLevel.janela_sala_vitor_braga_pintado_Cube_21.StaticMeshComponent0)
 [2022.10.05-17.46.53:030][760]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPersonBP/Maps/L1.L1:PersistentLevel.janela_sala_vitor_braga_pintado_Cube_21.StaticMeshComponent0)
 [2022.10.05-17.46.53:155][775]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPersonBP/Maps/L1.L1:PersistentLevel.janela_sala_vitor_braga_pintado_Cube_21.StaticMeshComponent0)
+[2022.10.05-17.48.59:615][ 79]Cmd: DELETE
+[2022.10.05-17.48.59:615][ 79]Cmd: ACTOR DELETE
+[2022.10.05-17.48.59:617][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.05-17.48.59:622][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.05-17.48.59:627][ 79]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.10.05-17.49.02:905][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.10.05-17.49.04:139][616]Cmd: EDIT COPY
+[2022.10.05-17.49.04:631][675]Cmd: EDIT PASTE
+[2022.10.05-17.49.18:175][268]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2022.10.05-17.49.19:963][435]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-17.49.19:969][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-17.49.19:969][435]PIE: New page: PIE session: L1 (Oct 5, 2022, 11:49:19 AM)
+[2022.10.05-17.49.19:992][435]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-17.49.20:001][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009231s)
+[2022.10.05-17.49.20:002][435]LogAIModule: Creating AISystem for world L1
+[2022.10.05-17.49.20:002][435]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2022.10.05-17.49.20:002][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.010420s)
+[2022.10.05-17.49.20:008][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.05-17.49.20:011][435]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.10.05-17.49.20:011][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-17.49.20:011][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-17.49.20:011][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-17.49.20:011][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-17.49.20:011][435]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-17.49.20:011][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-17.49.20:011][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-17.49.20:011][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-17.49.20:012][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-17.49.20:012][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-17.49.20:012][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-17.49.20:012][435]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-17.49.20:016][435]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-17.49.20:016][435]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-17.49.20:025][435]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- High Definition Audio Device)
+[2022.10.05-17.49.20:026][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-17.49.20:026][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-17.49.20:026][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-17.49.20:026][435]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-17.49.20:026][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.05-17.49.20:026][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.05-17.49.20:027][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.05-17.49.20:027][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.05-17.49.20:027][435]LogInit: FAudioDevice initialized.
+[2022.10.05-17.49.20:027][435]LogAudio: Display: Audio Device (ID: 13) registered with world 'L1'.
+[2022.10.05-17.49.20:033][435]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-17.49.20:035][435]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-14.49.20
+[2022.10.05-17.49.20:035][435]LogWorld: Bringing up level for play took: 0.000950
+[2022.10.05-17.49.20:035][435]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.10.05-17.49.20:038][435]PIE: Server logged in
+[2022.10.05-17.49.20:039][435]PIE: Play in editor total start time 0.072 seconds.
+[2022.10.05-17.49.36:089][358]LogNet: Browse: /Game/Maps/L4Patio
+[2022.10.05-17.49.36:089][358]LogLoad: LoadMap: /Game/Maps/L4Patio
+[2022.10.05-17.49.36:089][358]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-17.49.36:090][358]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-17.49.36:090][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-17.49.36:116][358]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-17.49.36:118][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.05-17.49.36:132][358]LogAudio: Display: Audio Device (ID: 13) registered with world 'L4Patio'.
+[2022.10.05-17.49.36:133][358]LogAIModule: Creating AISystem for world L4Patio
+[2022.10.05-17.49.36:133][358]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-17.49.36:137][358]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L4Patio.L4Patio up for play (max tick rate 0) at 2022.10.05-14.49.36
+[2022.10.05-17.49.36:137][358]LogWorld: Bringing up level for play took: 0.003492
+[2022.10.05-17.49.36:139][358]LogLoad: Took 0.049465 seconds to LoadMap(/Game/Maps/L4Patio)
+[2022.10.05-17.49.38:427][631]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-17.49.38:427][631]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-17.49.38:427][631]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L4Patio
+[2022.10.05-17.49.38:427][631]LogWorld: UWorld::CleanupWorld for L4Patio, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-17.49.38:428][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-17.49.38:467][631]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-17.49.38:468][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.05-17.49.38:469][631]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-17.49.38:478][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009408s)
+[2022.10.05-17.49.38:479][631]LogAIModule: Creating AISystem for world L1
+[2022.10.05-17.49.38:480][631]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2022.10.05-17.49.38:480][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.010666s)
+[2022.10.05-17.49.38:480][631]LogAudio: Display: Audio Device (ID: 13) registered with world 'L1'.
+[2022.10.05-17.49.38:480][631]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-17.49.38:486][631]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-14.49.38
+[2022.10.05-17.49.38:486][631]LogWorld: Bringing up level for play took: 0.005963
+[2022.10.05-17.49.38:488][631]LogLoad: Took 0.061355 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.05-17.49.57:186][872]LogNet: Browse: /Game/Maps/L4Patio
+[2022.10.05-17.49.57:186][872]LogLoad: LoadMap: /Game/Maps/L4Patio
+[2022.10.05-17.49.57:186][872]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-17.49.57:187][872]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-17.49.57:187][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-17.49.57:216][872]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-17.49.57:217][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.05-17.49.57:231][872]LogAudio: Display: Audio Device (ID: 13) registered with world 'L4Patio'.
+[2022.10.05-17.49.57:232][872]LogAIModule: Creating AISystem for world L4Patio
+[2022.10.05-17.49.57:232][872]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-17.49.57:236][872]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L4Patio.L4Patio up for play (max tick rate 0) at 2022.10.05-14.49.57
+[2022.10.05-17.49.57:237][872]LogWorld: Bringing up level for play took: 0.003554
+[2022.10.05-17.49.57:239][872]LogLoad: Took 0.052319 seconds to LoadMap(/Game/Maps/L4Patio)
+[2022.10.05-17.49.59:287][116]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-17.49.59:287][116]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-17.49.59:287][116]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L4Patio
+[2022.10.05-17.49.59:288][116]LogWorld: UWorld::CleanupWorld for L4Patio, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-17.49.59:288][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-17.49.59:326][116]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-17.49.59:328][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.05-17.49.59:329][116]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-17.49.59:338][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009035s)
+[2022.10.05-17.49.59:339][116]LogAIModule: Creating AISystem for world L1
+[2022.10.05-17.49.59:339][116]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2022.10.05-17.49.59:339][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.010240s)
+[2022.10.05-17.49.59:339][116]LogAudio: Display: Audio Device (ID: 13) registered with world 'L1'.
+[2022.10.05-17.49.59:339][116]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-17.49.59:349][116]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-14.49.59
+[2022.10.05-17.49.59:349][116]LogWorld: Bringing up level for play took: 0.009359
+[2022.10.05-17.49.59:351][116]LogLoad: Took 0.063392 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.05-17.50.00:223][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-17.50.00:223][212]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-17.50.00:223][212]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-17.50.00:223][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-17.50.00:232][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-17.50.00:242][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-17.50.00:246][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-17.50.00:246][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-17.50.00:247][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-17.50.00:251][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.05-17.50.00:293][214]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.10.05-17.50.28:711][512]Cmd: EDIT COPY
+[2022.10.05-17.50.29:380][592]Cmd: EDIT PASTE
+[2022.10.05-17.50.49:656][978]Cmd: EDIT COPY
+[2022.10.05-17.50.50:243][ 48]Cmd: EDIT PASTE
+[2022.10.05-17.50.59:129][ 69]Cmd: EDIT PASTE
+[2022.10.05-17.51.06:941][978]Cmd: EDIT COPY
+[2022.10.05-17.51.07:729][ 72]Cmd: EDIT PASTE
+[2022.10.05-17.51.18:153][297]Cmd: EDIT COPY
+[2022.10.05-17.51.18:748][368]Cmd: EDIT PASTE
+[2022.10.05-17.51.33:573][ 31]Cmd: EDIT COPY
+[2022.10.05-17.51.34:335][122]Cmd: EDIT PASTE
+[2022.10.05-17.51.44:895][330]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.10.05-17.51.48:523][733]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight10)
+[2022.10.05-17.51.49:608][860]Cmd: EDIT COPY
+[2022.10.05-17.51.50:286][941]Cmd: EDIT PASTE
+[2022.10.05-17.51.59:224][967]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-17.51.59:228][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-17.51.59:228][967]PIE: New page: PIE session: L1 (Oct 5, 2022, 11:51:59 AM)
+[2022.10.05-17.51.59:263][967]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-17.51.59:272][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009364s)
+[2022.10.05-17.51.59:273][967]LogAIModule: Creating AISystem for world L1
+[2022.10.05-17.51.59:273][967]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2022.10.05-17.51.59:273][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.010602s)
+[2022.10.05-17.51.59:291][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.05-17.51.59:294][967]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.10.05-17.51.59:294][967]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-17.51.59:294][967]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-17.51.59:294][967]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-17.51.59:294][967]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-17.51.59:294][967]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-17.51.59:294][967]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-17.51.59:294][967]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-17.51.59:294][967]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-17.51.59:295][967]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-17.51.59:295][967]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-17.51.59:295][967]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-17.51.59:295][967]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-17.51.59:297][967]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-17.51.59:297][967]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-17.51.59:307][967]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- High Definition Audio Device)
+[2022.10.05-17.51.59:307][967]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-17.51.59:307][967]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-17.51.59:307][967]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-17.51.59:307][967]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-17.51.59:307][967]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.05-17.51.59:307][967]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.05-17.51.59:308][967]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.05-17.51.59:308][967]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.05-17.51.59:308][967]LogInit: FAudioDevice initialized.
+[2022.10.05-17.51.59:308][967]LogAudio: Display: Audio Device (ID: 14) registered with world 'L1'.
+[2022.10.05-17.51.59:316][967]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-17.51.59:318][967]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-14.51.59
+[2022.10.05-17.51.59:318][967]LogWorld: Bringing up level for play took: 0.001065
+[2022.10.05-17.51.59:318][967]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.10.05-17.51.59:321][967]PIE: Server logged in
+[2022.10.05-17.51.59:321][967]PIE: Play in editor total start time 0.093 seconds.
+[2022.10.05-17.52.14:161][745]LogNet: Browse: /Game/Maps/L3
+[2022.10.05-17.52.14:161][745]LogLoad: LoadMap: /Game/Maps/L3
+[2022.10.05-17.52.14:162][745]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-17.52.14:162][745]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-17.52.14:162][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-17.52.14:208][745]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-17.52.14:209][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.05-17.52.14:211][745]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L3
+[2022.10.05-17.52.14:214][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002943s)
+[2022.10.05-17.52.14:215][745]LogAIModule: Creating AISystem for world L3
+[2022.10.05-17.52.14:215][745]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2022.10.05-17.52.14:215][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L3.L3 to /Game/Maps/UEDPIE_0_L3.L3 (0.003872s)
+[2022.10.05-17.52.14:215][745]LogAudio: Display: Audio Device (ID: 14) registered with world 'L3'.
+[2022.10.05-17.52.14:215][745]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-17.52.14:216][745]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L3.L3 up for play (max tick rate 0) at 2022.10.05-14.52.14
+[2022.10.05-17.52.14:216][745]LogWorld: Bringing up level for play took: 0.000499
+[2022.10.05-17.52.14:218][745]LogLoad: Took 0.056733 seconds to LoadMap(/Game/Maps/UEDPIE_0_L3)
+[2022.10.05-17.52.27:842][377]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-17.52.27:842][377]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-17.52.27:842][377]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L3
+[2022.10.05-17.52.27:842][377]LogWorld: UWorld::CleanupWorld for L3, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-17.52.27:843][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-17.52.27:878][377]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-17.52.27:879][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.10.05-17.52.27:880][377]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-17.52.27:889][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009220s)
+[2022.10.05-17.52.27:890][377]LogAIModule: Creating AISystem for world L1
+[2022.10.05-17.52.27:890][377]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2022.10.05-17.52.27:891][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.010408s)
+[2022.10.05-17.52.27:891][377]LogAudio: Display: Audio Device (ID: 14) registered with world 'L1'.
+[2022.10.05-17.52.27:891][377]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-17.52.27:902][377]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-14.52.27
+[2022.10.05-17.52.27:903][377]LogWorld: Bringing up level for play took: 0.011345
+[2022.10.05-17.52.27:905][377]LogLoad: Took 0.062555 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.05-17.55.41:365][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-17.55.41:365][583]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-17.55.41:365][583]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-17.55.41:366][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-17.55.41:371][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-17.55.41:379][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-17.55.41:383][583]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-17.55.41:383][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-17.55.41:384][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-17.55.41:387][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-17.55.41:388][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.05-17.55.41:443][586]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.10.05-17.55.44:907][989]MapCheck: New page: Map Check
+[2022.10.05-17.55.44:914][989]LightingResults: New page: Lighting Build - Oct 5, 2022, 11:55:44 AM
+[2022.10.05-17.55.44:919][989]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.10.05-17.55.44:921][989]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.10.05-17.55.44:921][989]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.10.05-17.55.44:922][989]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.10.05-17.55.44:922][989]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4184
+[2022.10.05-17.55.49:503][989]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.10.05-17.55.49:503][989]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.10.05-17.55.49:503][989]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.10.05-17.55.49:503][989]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.10.05-17.55.49:503][989]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.10.05-17.55.49:580][989]LogEditorBuildUtils: Build time 0:04
+[2022.10.05-17.55.49:589][989]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.05-17.55.49:589][989]LogShaderCompilers: Display: Total job queries 1015, among them cache hits 34 (3.35%)
+[2022.10.05-17.55.49:589][989]LogShaderCompilers: Display: Tracking 977 distinct input hashes that result in 158 distinct outputs (16.17%)
+[2022.10.05-17.55.49:589][989]LogShaderCompilers: Display: RAM used: 0.83 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.10.05-17.55.49:589][989]LogShaderCompilers: Display: ================================================
+[2022.10.05-17.55.49:708][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.05-17.55.53:754][320]LightingResults: Warning: Door1_pCube5 Object has overlapping UVs.
+[2022.10.05-17.55.53:754][320]LightingResults: Door1_pCube5 Lightmap UV are overlapping by 7.3%. Please adjust content - Enable Error Coloring to visualize.
+[2022.10.05-17.55.53:754][320]LightingResults: Warning: Door1_pCube5 Object has overlapping UVs.
+[2022.10.05-17.55.53:754][320]LightingResults: Door1_pCube5 Lightmap UV are overlapping by 7.3%. Please adjust content - Enable Error Coloring to visualize.
+[2022.10.05-17.55.54:171][350]LightingResults: Warning: Door1_pCube5 Object has overlapping UVs.
+[2022.10.05-17.55.54:171][350]LightingResults: Door1_pCube5 Lightmap UV are overlapping by 7.3%. Please adjust content - Enable Error Coloring to visualize.
+[2022.10.05-17.55.54:372][365]LightingResults: Warning: Door1_pCube5 Object has overlapping UVs.
+[2022.10.05-17.55.54:372][365]LightingResults: Door1_pCube5 Lightmap UV are overlapping by 7.3%. Please adjust content - Enable Error Coloring to visualize.
+[2022.10.05-17.56.07:269][532]Job is a success!
+[2022.10.05-17.56.07:501][534]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.025s
+[2022.10.05-17.56.07:501][534]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.10.05-17.56.07:501][534]LogVolumetricLightmapImport:      BrickData (all levels) 0.4Mb
+[2022.10.05-17.56.07:501][534]LogVolumetricLightmapImport:      Bricks at depth
+[2022.10.05-17.56.07:501][534]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2022.10.05-17.56.07:501][534]LogVolumetricLightmapImport:          1: 5.2% covering 6.2% of volume
+[2022.10.05-17.56.07:501][534]LogVolumetricLightmapImport:          2: 93.5% covering 1.8% of volume
+[2022.10.05-17.56.07:501][534]LogVolumetricLightmapImport:      Bricks in each level
+[2022.10.05-17.56.07:501][534]LogVolumetricLightmapImport:          L1 			 77 bricks 	 100.0% (Persistent Level)
+[2022.10.05-17.56.07:852][534]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.10.05-17.56.07:852][534]LightingResults: Warning: PointLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.10.05-17.56.07:852][534]LightingResults: Warning: PointLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.10.05-17.56.07:852][534]LightingResults: Warning: PointLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.10.05-17.56.07:852][534]LightingResults: Warning: PointLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.10.05-17.56.07:852][534]LightingResults: Warning: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.10.05-17.56.08:307][534]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 2048X1024)
+[2022.10.05-17.56.08:307][534]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-17.56.08:307][534]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-17.56.08:307][534]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 2048X2048)
+[2022.10.05-17.56.08:307][534]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-17.56.08:307][534]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-17.56.08:307][534]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 2048X2048)
+[2022.10.05-17.56.08:307][534]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 2048X1024)
+[2022.10.05-17.56.08:307][534]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-17.56.08:307][534]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-17.56.08:307][534]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 2048X2048)
+[2022.10.05-17.56.08:307][534]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 2048X2048)
+[2022.10.05-17.56.08:307][534]LogTexture: Display: Building textures: SkyOcclusion1_3 (OODLE_AutoDXT, 512X256)
+[2022.10.05-17.56.08:307][534]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 512X512)
+[2022.10.05-17.56.08:307][534]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 512X512)
+[2022.10.05-17.56.08:307][534]LogTexture: Display: Building textures: SkyOcclusion1_4 (OODLE_AutoDXT, 64X32)
+[2022.10.05-17.56.08:307][534]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 64X64)
+[2022.10.05-17.56.08:307][534]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-17.56.08:307][534]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 64X64)
+[2022.10.05-17.56.08:307][534]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-17.56.08:307][534]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-17.56.08:307][534]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-17.56.08:307][534]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-17.56.08:308][534]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-17.56.09:107][534]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 1024X128)
+[2022.10.05-17.56.09:107][534]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 32X32)
+[2022.10.05-17.56.09:271][534]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X1024)
+[2022.10.05-17.56.09:271][534]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X1024)
+[2022.10.05-17.56.09:271][534]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X1024)
+[2022.10.05-17.56.09:271][534]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X1024)
+[2022.10.05-17.56.09:906][534]Lightmass on 321-11: 19.1 sec total, 135 ms importing, 9 ms setup, 3.11 sec photons, 15.6 sec processing, 0 ms extra exporting [22/22 mappings]. Threads: 2:51 min total, 45.7 sec processing.
+[2022.10.05-17.56.09:910][534]LogStaticLightingSystem: L1_BuiltData storing lightmap data for 22 meshes in 6 LightmapResourceClusters (3.7 Meshes per cluster).
+[2022.10.05-17.56.09:919][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.05-17.56.09:942][534]LogStaticLightingSystem: Illumination: 24.9 sec (455 ms encoding lightmaps, 916 ms encoding shadowmaps)
+[2022.10.05-17.56.09:942][534]LogStaticLightingSystem: Lightmap texture memory:  22.0 MB (22.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2022.10.05-17.56.09:942][534]LogStaticLightingSystem: Shadowmap texture memory: 22.0 MB (22.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2022.10.05-17.56.10:524][534]DumpUnbuiltLightIteractions
+[2022.10.05-17.56.10:524][534]Lights with unbuilt interactions: 0
+[2022.10.05-17.56.10:524][534]
+[2022.10.05-17.56.10:524][534]Primitives with unbuilt interactions: 0
+[2022.10.05-17.56.10:601][534]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2022.10.05-17.56.10:628][535]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.10.05-17.56.10:628][535]MapCheck: New page: L1 - Oct 5, 2022, 11:56:10 AM
+[2022.10.05-17.56.10:629][535]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.675ms to complete.
+[2022.10.05-17.58.04:580][208]LogSlate: Window 'Message Log' being destroyed
+[2022.10.05-17.58.04:586][208]LogSlate: Window 'Message Log' being destroyed
+[2022.10.05-18.00.30:333][685]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.00.30:338][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.00.30:338][685]PIE: New page: PIE session: L1 (Oct 5, 2022, 12:00:30 PM)
+[2022.10.05-18.00.30:376][685]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.00.30:386][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010053s)
+[2022.10.05-18.00.30:387][685]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.00.30:387][685]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2022.10.05-18.00.30:387][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.011357s)
+[2022.10.05-18.00.30:396][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.05-18.00.30:402][685]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.10.05-18.00.30:402][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.00.30:402][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.00.30:402][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.00.30:402][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.00.30:402][685]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.00.30:402][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.00.30:402][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.00.30:402][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.00.30:403][685]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-18.00.30:403][685]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-18.00.30:403][685]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-18.00.30:403][685]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.00.30:406][685]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.00.30:406][685]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.00.30:415][685]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- High Definition Audio Device)
+[2022.10.05-18.00.30:415][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.00.30:416][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.00.30:416][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.00.30:416][685]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.00.30:416][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.05-18.00.30:416][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.05-18.00.30:417][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.05-18.00.30:417][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.05-18.00.30:417][685]LogInit: FAudioDevice initialized.
+[2022.10.05-18.00.30:417][685]LogAudio: Display: Audio Device (ID: 15) registered with world 'L1'.
+[2022.10.05-18.00.30:428][685]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.00.30:430][685]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-15.00.30
+[2022.10.05-18.00.30:430][685]LogWorld: Bringing up level for play took: 0.001076
+[2022.10.05-18.00.30:430][685]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.10.05-18.00.30:433][685]PIE: Server logged in
+[2022.10.05-18.00.30:434][685]PIE: Play in editor total start time 0.096 seconds.
+[2022.10.05-18.00.32:727][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.00.32:727][954]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.00.32:727][954]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.00.32:728][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.00.32:737][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.00.32:744][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.00.32:749][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.00.32:749][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-18.00.32:750][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-18.00.32:752][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.00.32:753][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.05-18.00.32:803][957]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.10.05-18.00.40:944][920]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2022.10.05-18.00.41:953][ 29]Cmd: DELETE
+[2022.10.05-18.00.41:953][ 29]Cmd: ACTOR DELETE
+[2022.10.05-18.00.41:955][ 29]LogEditorActor: Actor Light Source is referenced by SkySphereBlueprint.
+[2022.10.05-18.00.43:588][ 29]LogSlate: Window 'Message' being destroyed
+[2022.10.05-18.00.43:593][ 29]Message dialog closed, result: Yes, title: Message, text: Actor Light Source is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+SkySphereBlueprint
+[2022.10.05-18.00.43:593][ 29]LogEditorActor: Deleted Actor: DirectionalLight
+[2022.10.05-18.00.43:599][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.05-18.00.43:601][ 29]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.10.05-18.01.15:985][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.10.05-18.01.16:028][126]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L1_Auto3E599E7DD4D7A56CF5EF62EA68129E944.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/Autosaves/Game/FirstPersonBP/Maps/L1_Auto3.umap'
+[2022.10.05-18.01.16:088][126]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/L1' took 0.108
+[2022.10.05-18.01.16:088][126]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.108
+[2022.10.05-18.02.47:200][913]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\21010727\Downloads\texturachão.jpg)
+[2022.10.05-18.02.47:279][913]LogTexture: Display: Building textures: texturachão (BGRA8, 626X417)
+[2022.10.05-18.02.54:383][302]LogMaterial: Display: Missing cached shadermap for texturachão_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: BBDB1905EB4E4B5517D9CC00E8435BD3F1CD77F3), compiling. 
+[2022.10.05-18.02.54:391][302]LogMaterial: Display: Material /Game/texturachão_Mat.texturachão_Mat needed to have new flag set bUsedWithStaticLighting !
+[2022.10.05-18.02.54:392][302]LogMaterial: Display: Missing cached shadermap for texturachão_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1383E693D443539C5593A00E8ED32B2A9C81BABB), compiling. 
+[2022.10.05-18.02.54:408][302]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.10.05-18.02.54:417][302]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.05-18.02.54:417][302]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.05-18.02.54:417][302]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2022.10.05-18.02.54:417][302]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2022.10.05-18.02.54:417][302]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.10.05-18.02.54:417][302]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2022.10.05-18.02.54:417][302]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2022.10.05-18.02.54:417][302]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.10.05-18.02.54:417][302]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-18.02.54:417][302]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-18.02.55:167][346]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.05-18.02.55:168][346]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-18.02.55:168][346]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.05-18.02.55:168][346]LogShaderCompilers: Display: Total job queries 1040, among them cache hits 34 (3.27%)
+[2022.10.05-18.02.55:168][346]LogShaderCompilers: Display: Tracking 978 distinct input hashes that result in 158 distinct outputs (16.16%)
+[2022.10.05-18.02.55:168][346]LogShaderCompilers: Display: RAM used: 0.83 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.10.05-18.02.55:168][346]LogShaderCompilers: Display: ================================================
+[2022.10.05-18.02.55:419][375]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.10.05-18.02.55:419][375]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-18.02.55:831][422]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.10.05-18.02.55:831][422]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-18.02.56:005][443]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.10.05-18.02.56:005][443]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-18.02.56:216][468]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.10.05-18.02.56:216][468]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-18.03.02:139][178]Cmd: TRANSACTION UNDO
+[2022.10.05-18.03.02:139][178]LogEditorTransaction: Undo Create Actors
+[2022.10.05-18.03.08:891][938]Cmd: TRANSACTION UNDO
+[2022.10.05-18.03.08:891][938]LogEditorTransaction: Undo Create Actors
+[2022.10.05-18.03.09:556][971]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/texturachão_Mat.texturachão_Mat
+[2022.10.05-18.03.09:675][971]LogMaterial: Display: Missing cached shadermap for texturachão_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 404B253236D1D572D647DEF6D1BBEBC47E1C0AC5), compiling. 
+[2022.10.05-18.03.10:102][971]LogMaterial: Display: Missing cached shadermap for texturachão_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 718510ADECFFF5CD0AEBB476B8EF69375E4DD761), compiling. 
+[2022.10.05-18.03.10:109][971]LogMaterial: Display: Missing cached shadermap for texturachão_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2F94C996AB24ADCA4716BD15C55968DFA40C5CD6), compiling. 
+[2022.10.05-18.03.10:111][971]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C1E21C0301DDF5A3314480F4D20F4E7CCB98550), compiling. 
+[2022.10.05-18.03.10:195][971]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.05-18.03.10:195][971]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.05-18.03.10:195][971]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.05-18.03.10:200][971]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.05-18.03.10:599][973]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.10.05-18.03.10:599][973]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2022.10.05-18.03.10:599][973]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.10.05-18.03.10:599][973]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.05-18.03.10:599][973]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.05-18.03.10:599][973]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.05-18.03.10:599][973]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.05-18.03.10:682][982]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.05-18.03.10:696][984]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.05-18.03.10:696][984]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.05-18.03.10:696][984]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-18.03.17:700][801]LogSlate: Window 'texturachão_Mat' being destroyed
+[2022.10.05-18.03.17:705][801]LogSlate: Window 'texturachão_Mat' being destroyed
+[2022.10.05-18.03.17:737][801]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.03.17:737][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.03.20:678][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.05-18.03.23:215][142]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.05-18.03.23:255][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.05-18.04.51:320][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door1_pCube7)
+[2022.10.05-18.04.54:743][ 90]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo4)
+[2022.10.05-18.05.01:952][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door1_pCube7)
+[2022.10.05-18.05.16:279][615]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.05.17:642][769]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.05.22:804][371]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.05.27:471][905]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.05.31:468][367]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.05.34:043][661]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.05.39:727][334]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.05.43:983][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.10.05-18.05.49:231][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.10.05-18.05.55:686][175]Cmd: TRANSACTION UNDO
+[2022.10.05-18.05.55:686][175]LogEditorTransaction: Undo Replace component used material
+[2022.10.05-18.06.29:133][132]LogActorFactory: Actor Factory created Cube
+[2022.10.05-18.06.30:464][291]LogActorFactory: Actor Factory created Cube
+[2022.10.05-18.07.26:765][953]Cmd: EDIT COPY
+[2022.10.05-18.07.27:584][ 51]Cmd: EDIT PASTE
+[2022.10.05-18.07.42:229][766]Cmd: EDIT COPY
+[2022.10.05-18.07.43:207][883]Cmd: EDIT PASTE
+[2022.10.05-18.08.12:429][299]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo3)
+[2022.10.05-18.08.31:825][591]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.08.37:123][222]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.08.41:132][691]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.08.43:836][  0]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.08.46:933][351]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.08.49:901][692]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.08.52:073][935]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.08.54:538][209]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.09.00:053][845]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.09.02:523][126]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.09.07:176][675]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.09.37:527][272]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.09.37:527][272]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.09.43:751][  7]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.09.43:751][  7]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.09.53:724][179]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.09.53:725][179]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.09.58:966][789]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.09.58:966][789]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.01:234][ 41]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.01:234][ 41]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.04:003][363]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.04:003][363]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.09:057][958]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.09:057][958]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.10:232][ 98]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.10:233][ 98]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.11:654][252]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.11:655][252]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.13:881][503]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.13:881][503]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.16:622][821]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.16:622][821]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.17:358][909]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.10.05-18.10.20:256][219]Cmd: TRANSACTION UNDO
+[2022.10.05-18.10.20:257][219]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2022.10.05-18.10.21:613][334]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.21:614][334]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.24:088][616]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.24:088][616]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.30:525][372]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.30:525][372]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.10.31:324][467]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo)
+[2022.10.05-18.10.58:750][723]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.11.00:675][946]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.11.01:239][ 13]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.10.05-18.11.02:256][117]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart4)
+[2022.10.05-18.11.02:628][159]Cmd: TRANSACTION UNDO
+[2022.10.05-18.11.02:628][159]LogEditorTransaction: Undo Clicking on Actors
+[2022.10.05-18.11.03:241][186]Cmd: TRANSACTION UNDO
+[2022.10.05-18.11.03:241][186]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2022.10.05-18.11.04:384][318]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.11.13:432][393]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.11.18:206][953]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.11.21:409][336]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.11.24:500][706]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.11.26:785][960]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.11.30:579][412]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.11.37:482][214]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.12.02:226][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.05-18.12.02:273][132]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L1_Auto4A946D737450180EF3DE6E084E213B7A4.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/Autosaves/Game/FirstPersonBP/Maps/L1_Auto4.umap'
+[2022.10.05-18.12.02:310][132]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/L1' took 0.096
+[2022.10.05-18.12.02:310][132]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2022.10.05-18.12.15:244][662]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.22.02:194][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.05-18.22.02:251][ 28]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L1_Auto5618D90844E940DB7DDB2D89B69EF0806.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/Autosaves/Game/FirstPersonBP/Maps/L1_Auto5.umap'
+[2022.10.05-18.22.02:327][ 28]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/L1' took 0.139
+[2022.10.05-18.22.02:328][ 28]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.139
+[2022.10.05-18.24.52:121][385]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart3)
+[2022.10.05-18.24.56:208][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door1_pCube6)
+[2022.10.05-18.25.05:191][915]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.25.07:553][197]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.25.09:792][450]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.25.12:282][731]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.25.17:295][320]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.25.19:861][619]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.25.24:678][172]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.25.35:351][424]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.25.36:917][611]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.25.37:599][692]Cmd: TRANSACTION UNDO
+[2022.10.05-18.25.37:599][692]LogEditorTransaction: Undo Move Actors
+[2022.10.05-18.25.41:284][ 72]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.25.47:258][773]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.25.49:273][994]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.25.52:791][396]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.25.55:605][714]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.25.58:681][ 62]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.26.02:796][538]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.26.10:437][443]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.26.10:442][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.26.10:442][443]PIE: New page: PIE session: L1 (Oct 5, 2022, 12:26:10 PM)
+[2022.10.05-18.26.10:471][443]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.26.10:480][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009661s)
+[2022.10.05-18.26.10:481][443]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.26.10:481][443]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2022.10.05-18.26.10:481][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.010895s)
+[2022.10.05-18.26.10:503][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.05-18.26.10:506][443]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.10.05-18.26.10:506][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.26.10:507][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.26.10:507][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.26.10:507][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.26.10:507][443]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.26.10:507][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.26.10:507][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.26.10:507][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.26.10:507][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-18.26.10:507][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-18.26.10:507][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-18.26.10:507][443]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.26.10:510][443]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.26.10:510][443]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.26.10:520][443]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- High Definition Audio Device)
+[2022.10.05-18.26.10:520][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.26.10:520][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.26.10:520][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.26.10:520][443]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.26.10:520][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.05-18.26.10:520][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.05-18.26.10:521][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.05-18.26.10:521][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.05-18.26.10:521][443]LogInit: FAudioDevice initialized.
+[2022.10.05-18.26.10:521][443]LogAudio: Display: Audio Device (ID: 16) registered with world 'L1'.
+[2022.10.05-18.26.10:527][443]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.26.10:529][443]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-15.26.10
+[2022.10.05-18.26.10:530][443]LogWorld: Bringing up level for play took: 0.001103
+[2022.10.05-18.26.10:530][443]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.10.05-18.26.10:532][443]PIE: Server logged in
+[2022.10.05-18.26.10:533][443]PIE: Play in editor total start time 0.092 seconds.
+[2022.10.05-18.26.37:047][622]LogNet: Browse: /Game/Maps/L4Patio
+[2022.10.05-18.26.37:047][622]LogLoad: LoadMap: /Game/Maps/L4Patio
+[2022.10.05-18.26.37:047][622]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.26.37:047][622]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.26.37:047][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.26.37:085][622]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.26.37:087][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.05-18.26.37:100][622]LogAudio: Display: Audio Device (ID: 16) registered with world 'L4Patio'.
+[2022.10.05-18.26.37:100][622]LogAIModule: Creating AISystem for world L4Patio
+[2022.10.05-18.26.37:101][622]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.26.37:105][622]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L4Patio.L4Patio up for play (max tick rate 0) at 2022.10.05-15.26.37
+[2022.10.05-18.26.37:105][622]LogWorld: Bringing up level for play took: 0.003315
+[2022.10.05-18.26.37:107][622]LogLoad: Took 0.059781 seconds to LoadMap(/Game/Maps/L4Patio)
+[2022.10.05-18.26.51:796][383]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-18.26.51:796][383]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-18.26.51:796][383]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L4Patio
+[2022.10.05-18.26.51:796][383]LogWorld: UWorld::CleanupWorld for L4Patio, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.26.51:797][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.26.51:836][383]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.26.51:838][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.05-18.26.51:839][383]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.26.51:848][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009331s)
+[2022.10.05-18.26.51:849][383]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.26.51:849][383]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2022.10.05-18.26.51:849][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.010474s)
+[2022.10.05-18.26.51:849][383]LogAudio: Display: Audio Device (ID: 16) registered with world 'L1'.
+[2022.10.05-18.26.51:849][383]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.26.51:864][383]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-15.26.51
+[2022.10.05-18.26.51:864][383]LogWorld: Bringing up level for play took: 0.014117
+[2022.10.05-18.26.51:866][383]LogLoad: Took 0.070346 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.05-18.27.04:614][910]LogNet: Browse: /Game/Maps/L3
+[2022.10.05-18.27.04:614][910]LogLoad: LoadMap: /Game/Maps/L3
+[2022.10.05-18.27.04:614][910]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.27.04:615][910]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.27.04:615][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.27.04:655][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.27.04:657][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.05-18.27.04:658][910]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L3
+[2022.10.05-18.27.04:661][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002482s)
+[2022.10.05-18.27.04:661][910]LogAIModule: Creating AISystem for world L3
+[2022.10.05-18.27.04:662][910]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2022.10.05-18.27.04:662][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L3.L3 to /Game/Maps/UEDPIE_0_L3.L3 (0.003412s)
+[2022.10.05-18.27.04:662][910]LogAudio: Display: Audio Device (ID: 16) registered with world 'L3'.
+[2022.10.05-18.27.04:662][910]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.27.04:663][910]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L3.L3 up for play (max tick rate 0) at 2022.10.05-15.27.04
+[2022.10.05-18.27.04:663][910]LogWorld: Bringing up level for play took: 0.000496
+[2022.10.05-18.27.04:665][910]LogLoad: Took 0.050729 seconds to LoadMap(/Game/Maps/UEDPIE_0_L3)
+[2022.10.05-18.27.11:551][735]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-18.27.11:551][735]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-18.27.11:551][735]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L3
+[2022.10.05-18.27.11:551][735]LogWorld: UWorld::CleanupWorld for L3, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.27.11:551][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.27.11:584][735]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.27.11:586][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.05-18.27.11:587][735]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.27.11:596][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009381s)
+[2022.10.05-18.27.11:597][735]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.27.11:597][735]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2022.10.05-18.27.11:597][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.010585s)
+[2022.10.05-18.27.11:597][735]LogAudio: Display: Audio Device (ID: 16) registered with world 'L1'.
+[2022.10.05-18.27.11:597][735]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.27.11:608][735]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-15.27.11
+[2022.10.05-18.27.11:608][735]LogWorld: Bringing up level for play took: 0.010441
+[2022.10.05-18.27.11:610][735]LogLoad: Took 0.059516 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.05-18.27.18:661][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.27.18:661][575]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.27.18:661][575]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.27.18:661][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.27.18:667][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.27.18:673][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.27.18:678][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.27.18:678][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-18.27.18:679][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-18.27.18:681][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.27.18:683][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.05-18.27.18:738][579]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.10.05-18.27.21:047][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.10.05-18.28.23:371][315]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.28.23:375][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.28.23:375][315]PIE: New page: PIE session: L1 (Oct 5, 2022, 12:28:23 PM)
+[2022.10.05-18.28.23:401][315]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.28.23:411][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009555s)
+[2022.10.05-18.28.23:412][315]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.28.23:412][315]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2022.10.05-18.28.23:412][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.010759s)
+[2022.10.05-18.28.23:418][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.05-18.28.23:421][315]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.10.05-18.28.23:421][315]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.28.23:421][315]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.28.23:421][315]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.28.23:421][315]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.28.23:421][315]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.28.23:421][315]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.28.23:421][315]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.28.23:421][315]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.28.23:422][315]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-18.28.23:422][315]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-18.28.23:422][315]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-18.28.23:422][315]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.28.23:425][315]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.28.23:425][315]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.28.23:435][315]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- High Definition Audio Device)
+[2022.10.05-18.28.23:435][315]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.28.23:436][315]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.28.23:436][315]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.28.23:436][315]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.28.23:436][315]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.05-18.28.23:436][315]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.05-18.28.23:437][315]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.05-18.28.23:437][315]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.05-18.28.23:437][315]LogInit: FAudioDevice initialized.
+[2022.10.05-18.28.23:437][315]LogAudio: Display: Audio Device (ID: 17) registered with world 'L1'.
+[2022.10.05-18.28.23:442][315]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.28.23:444][315]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-15.28.23
+[2022.10.05-18.28.23:444][315]LogWorld: Bringing up level for play took: 0.001108
+[2022.10.05-18.28.23:444][315]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.10.05-18.28.23:447][315]PIE: Server logged in
+[2022.10.05-18.28.23:448][315]PIE: Play in editor total start time 0.073 seconds.
+[2022.10.05-18.28.31:071][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.28.31:071][222]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.28.31:071][222]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.28.31:071][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.28.31:079][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.28.31:093][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.28.31:097][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.28.31:097][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-18.28.31:098][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-18.28.31:101][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.05-18.28.31:146][224]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.10.05-18.28.32:105][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.10.05-18.28.33:842][534]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.28.33:847][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.28.33:847][534]PIE: New page: PIE session: L1 (Oct 5, 2022, 12:28:33 PM)
+[2022.10.05-18.28.33:880][534]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.28.33:890][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009500s)
+[2022.10.05-18.28.33:891][534]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.28.33:891][534]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2022.10.05-18.28.33:891][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.010717s)
+[2022.10.05-18.28.33:897][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.05-18.28.33:898][534]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.10.05-18.28.33:898][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.28.33:898][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.28.33:898][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.28.33:898][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.28.33:898][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.28.33:898][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.28.33:898][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.28.33:898][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.28.33:899][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-18.28.33:899][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-18.28.33:899][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-18.28.33:899][534]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.28.33:901][534]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.28.33:901][534]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.28.33:910][534]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- High Definition Audio Device)
+[2022.10.05-18.28.33:910][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.28.33:910][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.28.33:911][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.28.33:911][534]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.28.33:911][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.05-18.28.33:911][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.05-18.28.33:912][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.05-18.28.33:912][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.05-18.28.33:912][534]LogInit: FAudioDevice initialized.
+[2022.10.05-18.28.33:912][534]LogAudio: Display: Audio Device (ID: 18) registered with world 'L1'.
+[2022.10.05-18.28.33:918][534]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.28.33:920][534]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-15.28.33
+[2022.10.05-18.28.33:920][534]LogWorld: Bringing up level for play took: 0.001156
+[2022.10.05-18.28.33:921][534]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.10.05-18.28.33:924][534]PIE: Server logged in
+[2022.10.05-18.28.33:924][534]PIE: Play in editor total start time 0.078 seconds.
+[2022.10.05-18.28.37:694][984]LogNet: Browse: /Game/Maps/L2
+[2022.10.05-18.28.37:694][984]LogLoad: LoadMap: /Game/Maps/L2
+[2022.10.05-18.28.37:694][984]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.28.37:694][984]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.28.37:694][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.28.37:736][984]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.28.37:737][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.05-18.28.37:739][984]LogLinker: Warning: [AssetLog] C:\Users\21010727\Documents\GitHub\Fecart\fecart3\Content\Maps\L2.umap: Failed to load '/Game/Maps/L2_BuiltData': Can't find file.
+[2022.10.05-18.28.37:740][984]LogLinker: Warning: [AssetLog] C:\Users\21010727\Documents\GitHub\Fecart\fecart3\Content\Maps\L2.umap: Failed to load '/Game/Maps/L2_BuiltData': Can't find file.
+[2022.10.05-18.28.37:740][984]LogLinker: Warning: [AssetLog] C:\Users\21010727\Documents\GitHub\Fecart\fecart3\Content\Maps\L2.umap: Failed to load '/Game/Maps/L2_BuiltData': Can't find file.
+[2022.10.05-18.28.37:742][984]LogLinker: Warning: [AssetLog] C:\Users\21010727\Documents\GitHub\Fecart\fecart3\Content\Maps\L2.umap: Failed to load '/Game/Maps/L2_BuiltData': Can't find file.
+[2022.10.05-18.28.37:742][984]LoadErrors: Failed to load /Game/Maps/L2_BuiltData.L2_BuiltData Referenced by PersistentLevel
+[2022.10.05-18.28.37:744][984]LogAudio: Display: Audio Device (ID: 18) registered with world 'L2'.
+[2022.10.05-18.28.37:744][984]LogAIModule: Creating AISystem for world L2
+[2022.10.05-18.28.37:744][984]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.28.37:746][984]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L2.L2 up for play (max tick rate 0) at 2022.10.05-15.28.37
+[2022.10.05-18.28.37:747][984]LogWorld: Bringing up level for play took: 0.001169
+[2022.10.05-18.28.37:748][984]LogLoad: Took 0.054572 seconds to LoadMap(/Game/Maps/L2)
+[2022.10.05-18.28.39:762][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.28.39:762][221]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L2
+[2022.10.05-18.28.39:762][221]LogWorld: UWorld::CleanupWorld for L2, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.28.39:762][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.28.39:773][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.28.39:786][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.28.39:790][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.28.39:790][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-18.28.39:791][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-18.28.39:795][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.05-18.28.39:838][223]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.10.05-18.28.43:099][602]MapCheck: New page: Map Check
+[2022.10.05-18.28.43:113][602]LightingResults: New page: Lighting Build - Oct 5, 2022, 12:28:43 PM
+[2022.10.05-18.28.43:119][602]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.10.05-18.28.43:120][602]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.10.05-18.28.43:120][602]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.10.05-18.28.43:122][602]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.10.05-18.28.43:122][602]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4184
+[2022.10.05-18.28.47:701][602]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.10.05-18.28.47:701][602]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.10.05-18.28.47:701][602]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.10.05-18.28.47:701][602]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.10.05-18.28.47:701][602]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.10.05-18.28.47:831][602]LogEditorBuildUtils: Build time 0:04
+[2022.10.05-18.28.47:836][602]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.05-18.28.47:836][602]LogShaderCompilers: Display: Total job queries 1066, among them cache hits 58 (5.44%)
+[2022.10.05-18.28.47:836][602]LogShaderCompilers: Display: Tracking 1004 distinct input hashes that result in 159 distinct outputs (15.84%)
+[2022.10.05-18.28.47:836][602]LogShaderCompilers: Display: RAM used: 0.83 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.10.05-18.28.47:836][602]LogShaderCompilers: Display: ================================================
+[2022.10.05-18.28.47:876][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.05-18.28.51:913][937]LightingResults: Warning: Door1_pCube5 Object has overlapping UVs.
+[2022.10.05-18.28.51:913][937]LightingResults: Door1_pCube5 Lightmap UV are overlapping by 7.3%. Please adjust content - Enable Error Coloring to visualize.
+[2022.10.05-18.28.51:967][938]LightingResults: Warning: Door1_pCube5 Object has overlapping UVs.
+[2022.10.05-18.28.51:967][938]LightingResults: Door1_pCube5 Lightmap UV are overlapping by 7.3%. Please adjust content - Enable Error Coloring to visualize.
+[2022.10.05-18.28.51:967][938]LightingResults: Warning: Door1_pCube5 Object has overlapping UVs.
+[2022.10.05-18.28.51:967][938]LightingResults: Door1_pCube5 Lightmap UV are overlapping by 7.3%. Please adjust content - Enable Error Coloring to visualize.
+[2022.10.05-18.28.52:317][963]LightingResults: Warning: Door1_pCube5 Object has overlapping UVs.
+[2022.10.05-18.28.52:317][963]LightingResults: Door1_pCube5 Lightmap UV are overlapping by 7.3%. Please adjust content - Enable Error Coloring to visualize.
+[2022.10.05-18.29.03:716][996]Job is a success!
+[2022.10.05-18.29.04:082][997]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2022.10.05-18.29.04:082][997]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.10.05-18.29.04:082][997]LogVolumetricLightmapImport:      BrickData (all levels) 0.4Mb
+[2022.10.05-18.29.04:082][997]LogVolumetricLightmapImport:      Bricks at depth
+[2022.10.05-18.29.04:082][997]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2022.10.05-18.29.04:082][997]LogVolumetricLightmapImport:          1: 5.2% covering 6.2% of volume
+[2022.10.05-18.29.04:082][997]LogVolumetricLightmapImport:          2: 93.5% covering 1.8% of volume
+[2022.10.05-18.29.04:082][997]LogVolumetricLightmapImport:      Bricks in each level
+[2022.10.05-18.29.04:082][997]LogVolumetricLightmapImport:          L1 			 77 bricks 	 100.0% (Persistent Level)
+[2022.10.05-18.29.04:415][997]LightingResults: Warning: PointLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.10.05-18.29.04:415][997]LightingResults: Warning: PointLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.10.05-18.29.04:415][997]LightingResults: Warning: PointLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.10.05-18.29.04:415][997]LightingResults: Warning: PointLight11 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.10.05-18.29.04:881][997]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 2048X1024)
+[2022.10.05-18.29.04:881][997]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-18.29.04:881][997]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-18.29.04:881][997]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 2048X2048)
+[2022.10.05-18.29.04:881][997]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-18.29.04:881][997]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-18.29.04:881][997]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 2048X2048)
+[2022.10.05-18.29.04:881][997]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 2048X1024)
+[2022.10.05-18.29.04:881][997]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-18.29.04:881][997]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-18.29.04:881][997]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 2048X2048)
+[2022.10.05-18.29.04:881][997]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 2048X2048)
+[2022.10.05-18.29.04:881][997]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 512X256)
+[2022.10.05-18.29.04:881][997]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 512X512)
+[2022.10.05-18.29.04:881][997]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 64X32)
+[2022.10.05-18.29.04:881][997]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 512X512)
+[2022.10.05-18.29.04:881][997]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-18.29.04:881][997]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 64X64)
+[2022.10.05-18.29.04:881][997]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-18.29.04:881][997]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 64X64)
+[2022.10.05-18.29.04:881][997]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-18.29.04:881][997]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-18.29.04:881][997]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.10.05-18.29.04:881][997]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-18.29.05:680][997]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 1024X128)
+[2022.10.05-18.29.05:884][997]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X1024)
+[2022.10.05-18.29.05:884][997]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 1024X1024)
+[2022.10.05-18.29.05:884][997]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 1024X1024)
+[2022.10.05-18.29.05:884][997]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 1024X1024)
+[2022.10.05-18.29.07:156][997]Lightmass on 321-11: 18.0 sec total, 115 ms importing, 50 ms setup, 3.14 sec photons, 14.1 sec processing, 0 ms extra exporting [26/26 mappings]. Threads: 2:35 min total, 37.8 sec processing.
+[2022.10.05-18.29.07:159][997]LogStaticLightingSystem: L1_BuiltData storing lightmap data for 26 meshes in 6 LightmapResourceClusters (4.3 Meshes per cluster).
+[2022.10.05-18.29.07:170][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.10.05-18.29.07:207][997]LogStaticLightingSystem: Illumination: 24.0 sec (466 ms encoding lightmaps, 1.00 sec encoding shadowmaps)
+[2022.10.05-18.29.07:207][997]LogStaticLightingSystem: Lightmap texture memory:  22.0 MB (22.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2022.10.05-18.29.07:207][997]LogStaticLightingSystem: Shadowmap texture memory: 18.0 MB (18.0 MB streaming, 0.0 MB non-streaming), 5 textures
+[2022.10.05-18.29.07:720][997]DumpUnbuiltLightIteractions
+[2022.10.05-18.29.07:720][997]Lights with unbuilt interactions: 0
+[2022.10.05-18.29.07:720][997]
+[2022.10.05-18.29.07:720][997]Primitives with unbuilt interactions: 0
+[2022.10.05-18.29.07:789][997]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2022.10.05-18.29.07:816][998]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.10.05-18.29.07:816][998]MapCheck: New page: L1 - Oct 5, 2022, 12:29:07 PM
+[2022.10.05-18.29.07:817][998]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.652ms to complete.
+[2022.10.05-18.29.10:411][303]LogSlate: Window 'Message Log' being destroyed
+[2022.10.05-18.29.10:415][303]LogSlate: Window 'Message Log' being destroyed
+[2022.10.05-18.29.43:346][248]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.29.43:351][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.29.43:351][248]PIE: New page: PIE session: L1 (Oct 5, 2022, 12:29:43 PM)
+[2022.10.05-18.29.43:381][248]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.29.43:390][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009555s)
+[2022.10.05-18.29.43:391][248]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.29.43:391][248]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2022.10.05-18.29.43:391][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.010774s)
+[2022.10.05-18.29.43:397][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.05-18.29.43:405][248]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.10.05-18.29.43:405][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.29.43:405][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.29.43:405][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.29.43:405][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.29.43:405][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.29.43:405][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.29.43:405][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.29.43:405][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.29.43:406][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-18.29.43:406][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-18.29.43:406][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-18.29.43:406][248]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.29.43:409][248]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.29.43:409][248]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.29.43:418][248]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- High Definition Audio Device)
+[2022.10.05-18.29.43:418][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.29.43:418][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.29.43:418][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.29.43:418][248]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.29.43:418][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.05-18.29.43:418][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.05-18.29.43:419][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.05-18.29.43:419][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.05-18.29.43:419][248]LogInit: FAudioDevice initialized.
+[2022.10.05-18.29.43:419][248]LogAudio: Display: Audio Device (ID: 19) registered with world 'L1'.
+[2022.10.05-18.29.43:427][248]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.29.43:429][248]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-15.29.43
+[2022.10.05-18.29.43:429][248]LogWorld: Bringing up level for play took: 0.001092
+[2022.10.05-18.29.43:430][248]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.10.05-18.29.43:432][248]PIE: Server logged in
+[2022.10.05-18.29.43:433][248]PIE: Play in editor total start time 0.082 seconds.
+[2022.10.05-18.29.56:433][806]LogNet: Browse: /Game/Maps/L4Patio
+[2022.10.05-18.29.56:433][806]LogLoad: LoadMap: /Game/Maps/L4Patio
+[2022.10.05-18.29.56:433][806]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.29.56:433][806]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.29.56:433][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.29.56:475][806]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.29.56:477][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.05-18.29.56:490][806]LogAudio: Display: Audio Device (ID: 19) registered with world 'L4Patio'.
+[2022.10.05-18.29.56:491][806]LogAIModule: Creating AISystem for world L4Patio
+[2022.10.05-18.29.56:491][806]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.29.56:495][806]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L4Patio.L4Patio up for play (max tick rate 0) at 2022.10.05-15.29.56
+[2022.10.05-18.29.56:495][806]LogWorld: Bringing up level for play took: 0.003341
+[2022.10.05-18.29.56:497][806]LogLoad: Took 0.064185 seconds to LoadMap(/Game/Maps/L4Patio)
+[2022.10.05-18.30.30:833][925]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-18.30.30:833][925]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-18.30.30:833][925]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L4Patio
+[2022.10.05-18.30.30:833][925]LogWorld: UWorld::CleanupWorld for L4Patio, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.30.30:834][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.30.30:865][925]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.30.30:867][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.05-18.30.30:869][925]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.30.30:878][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009533s)
+[2022.10.05-18.30.30:879][925]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.30.30:879][925]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2022.10.05-18.30.30:879][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.010619s)
+[2022.10.05-18.30.30:879][925]LogAudio: Display: Audio Device (ID: 19) registered with world 'L1'.
+[2022.10.05-18.30.30:880][925]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.30.30:888][925]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-15.30.30
+[2022.10.05-18.30.30:888][925]LogWorld: Bringing up level for play took: 0.007649
+[2022.10.05-18.30.30:890][925]LogLoad: Took 0.057094 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.05-18.30.32:352][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.30.32:352][ 95]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.30.32:352][ 95]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.30.32:352][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.30.32:358][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.30.32:370][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.30.32:374][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.30.32:374][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-18.30.32:375][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-18.30.32:379][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.05-18.30.32:444][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.10.05-18.31.07:151][ 26]LogSlate: Window 'New Level' being destroyed
+[2022.10.05-18.31.09:147][ 26]LogSlate: Window 'Save Content' being destroyed
+[2022.10.05-18.31.09:173][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.05-18.31.09:219][ 26]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L1E8B0FA914A7B9F08B6C095A95B04C0B4.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/L1.umap'
+[2022.10.05-18.31.09:257][ 26]LogFileHelpers: Saving map 'L1' took 0.089
+[2022.10.05-18.31.09:257][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/L1_BuiltData" FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/L1_BuiltData.uasset" SILENT=true
+[2022.10.05-18.31.09:534][ 26]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L1_BuiltData5F1197A446BFFBD8CBA535ABFDA97F63.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/L1_BuiltData.uasset'
+[2022.10.05-18.31.10:139][ 26]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-18.31.10:633][ 26]LightingResults: New page: Lighting Build
+[2022.10.05-18.31.10:633][ 26]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.10.05-18.31.10:682][ 26]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.31.10:682][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.31.10:682][ 26]MapCheck: New page: Map Check
+[2022.10.05-18.31.10:682][ 26]LightingResults: New page: Lighting Build
+[2022.10.05-18.31.10:686][ 26]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.31.10:689][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.05-18.31.10:703][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.05-18.31.10:707][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.05-18.31.10:714][ 26]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.10.05-18.31.10:719][ 26]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.10.05-18.31.10:720][ 26]LogAIModule: Creating AISystem for world Untitled_1
+[2022.10.05-18.31.10:767][ 26]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-18.31.10:773][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.05-18.31.10:783][ 26]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-18.31.10:783][ 26]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.276ms to complete.
+[2022.10.05-18.31.10:784][ 26]LogFileHelpers: Loading map 'Template_Default' took 0.645
+[2022.10.05-18.31.10:787][ 26]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-18.31.10:787][ 26]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/L1.L1
+[2022.10.05-18.31.10:871][ 26]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/L1_BuiltData.L1_BuiltData
+[2022.10.05-18.31.21:209][355]LogSlate: Window 'Save Level As' being destroyed
+[2022.10.05-18.31.21:258][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L5" FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.05-18.31.21:264][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.05-18.31.21:281][355]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L52C44231B4880EA34EE74389E59017767.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L5.umap'
+[2022.10.05-18.31.21:291][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L5_BuiltData" FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L5_BuiltData.uasset" SILENT=true
+[2022.10.05-18.31.21:305][355]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L5_BuiltData777BD6A9414DCB42992A7789E7381E1E.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L5_BuiltData.uasset'
+[2022.10.05-18.31.21:317][355]LogFileHelpers: Saving map 'L5' took 0.100
+[2022.10.05-18.31.21:320][355]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-18.31.21:320][355]LogContentValidation: Display: Validating World /Game/Maps/L5.L5
+[2022.10.05-18.31.21:321][355]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/L5_BuiltData.L5_BuiltData
+[2022.10.05-18.31.25:381][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L5" FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.05-18.31.25:385][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.05-18.31.25:398][835]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L5122A87154F0EADC04F202DA642330FE3.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L5.umap'
+[2022.10.05-18.31.25:408][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L5_BuiltData" FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L5_BuiltData.uasset" SILENT=true
+[2022.10.05-18.31.25:421][835]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L5_BuiltDataEE384DAB46D76CF9BAA27086BDDB5E37.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L5_BuiltData.uasset'
+[2022.10.05-18.31.25:437][835]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-18.31.25:437][835]LogContentValidation: Display: Validating World /Game/Maps/L5.L5
+[2022.10.05-18.31.25:437][835]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/L5_BuiltData.L5_BuiltData
+[2022.10.05-18.31.40:375][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.05-18.31.40:392][611]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/L1.L1
+[2022.10.05-18.31.40:392][611]Cmd: MAP LOAD FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/L1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-18.31.40:392][611]LightingResults: New page: Lighting Build
+[2022.10.05-18.31.40:392][611]LoadErrors: New page: Loading map: L1.umap
+[2022.10.05-18.31.40:442][611]LogWorld: UWorld::CleanupWorld for L5, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.31.40:442][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.31.40:442][611]MapCheck: New page: Map Check
+[2022.10.05-18.31.40:442][611]LightingResults: New page: Lighting Build
+[2022.10.05-18.31.40:446][611]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.31.40:449][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.05-18.31.40:449][611]LogAudio: Display: Audio Device (ID: 1) registered with world 'L1'.
+[2022.10.05-18.31.40:511][611]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-18.31.40:511][611]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.31.40:518][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.05-18.31.40:543][611]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-18.31.40:543][611]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.31ms to complete.
+[2022.10.05-18.31.40:543][611]LogFileHelpers: Loading map 'L1' took 0.152
+[2022.10.05-18.31.53:233][128]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/FirstPersonBP/Maps/LevelList.LevelList
+[2022.10.05-18.32.03:218][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/LevelList" FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/LevelList.uasset" SILENT=true
+[2022.10.05-18.32.03:236][260]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/LevelListCF95422443BDC3D91B9C63A51C29CACD.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/LevelList.uasset'
+[2022.10.05-18.32.03:247][260]AssetCheck: New page: Asset Save: LevelList
+[2022.10.05-18.32.03:247][260]LogContentValidation: Display: Validating UserDefinedEnum /Game/FirstPersonBP/Maps/LevelList.LevelList
+[2022.10.05-18.32.04:007][342]LogSlate: Window 'LevelList' being destroyed
+[2022.10.05-18.36.17:580][752]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart3)
+[2022.10.05-18.36.26:823][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.05-18.36.28:046][837]LogSlate: Window 'Save Content' being destroyed
+[2022.10.05-18.36.28:075][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/gooo" FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/gooo.uasset" SILENT=true
+[2022.10.05-18.36.28:208][837]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/gooo2622CEAE4B492C9CF3B7C59DE7952EA1.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/gooo.uasset'
+[2022.10.05-18.36.28:229][837]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/L3.L3
+[2022.10.05-18.36.28:229][837]Cmd: MAP LOAD FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-18.36.28:229][837]LightingResults: New page: Lighting Build
+[2022.10.05-18.36.28:229][837]LoadErrors: New page: Loading map: L3.umap
+[2022.10.05-18.36.28:273][837]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.36.28:273][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.36.28:273][837]MapCheck: New page: Map Check
+[2022.10.05-18.36.28:273][837]LightingResults: New page: Lighting Build
+[2022.10.05-18.36.28:278][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.36.28:281][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.05-18.36.28:281][837]LogAudio: Display: Audio Device (ID: 1) registered with world 'L3'.
+[2022.10.05-18.36.28:330][837]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-18.36.28:330][837]LogAIModule: Creating AISystem for world L3
+[2022.10.05-18.36.28:337][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.05-18.36.28:388][837]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-18.36.28:388][837]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.226ms to complete.
+[2022.10.05-18.36.28:388][837]LogFileHelpers: Loading map 'L3' took 0.159
+[2022.10.05-18.36.28:400][837]AssetCheck: New page: Asset Save: gooo
+[2022.10.05-18.36.28:400][837]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Maps/gooo.gooo
+[2022.10.05-18.36.49:796][380]Cmd: EDIT COPY
+[2022.10.05-18.36.50:505][449]Cmd: EDIT PASTE
+[2022.10.05-18.37.06:283][280]Cmd: EDIT COPY
+[2022.10.05-18.37.06:877][351]Cmd: EDIT PASTE
+[2022.10.05-18.37.12:730][ 31]Cmd: TRANSACTION UNDO
+[2022.10.05-18.37.12:730][ 31]LogEditorTransaction: Undo Move Actors
+[2022.10.05-18.37.13:124][ 43]Cmd: TRANSACTION UNDO
+[2022.10.05-18.37.13:124][ 43]LogEditorTransaction: Undo Paste
+[2022.10.05-18.37.14:808][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2022.10.05-18.37.20:369][883]Cmd: EDIT COPY
+[2022.10.05-18.37.21:005][955]Cmd: EDIT PASTE
+[2022.10.05-18.37.29:415][948]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start2)
+[2022.10.05-18.37.42:716][512]Cmd: EDIT COPY
+[2022.10.05-18.37.43:666][626]Cmd: EDIT PASTE
+[2022.10.05-18.37.43:677][626]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.37.43:678][626]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.37.48:009][134]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.37.48:074][134]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.37.54:280][867]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.37.54:281][867]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.38.00:210][555]LogActorFactory: Actor Factory created Cube
+[2022.10.05-18.38.01:031][653]LogActorFactory: Actor Factory created Cube
+[2022.10.05-18.38.05:922][220]LogActorFactory: Actor Factory created Cube
+[2022.10.05-18.38.06:901][337]LogActorFactory: Actor Factory created Cube
+[2022.10.05-18.38.19:434][797]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start3)
+[2022.10.05-18.38.38:555][ 30]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.38.44:149][688]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo4)
+[2022.10.05-18.38.49:658][344]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start4)
+[2022.10.05-18.38.58:081][330]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo3)
+[2022.10.05-18.39.03:153][933]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start3)
+[2022.10.05-18.39.11:704][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.05-18.39.12:665][941]LogSlate: Window 'Save Content' being destroyed
+[2022.10.05-18.39.12:697][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L3" FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.05-18.39.12:701][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.05-18.39.12:734][941]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L3E3DCE435448BAB0028E8F4A10D4C5601.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L3.umap'
+[2022.10.05-18.39.12:744][941]LogFileHelpers: Saving map 'L3' took 0.047
+[2022.10.05-18.39.12:795][941]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/L1.L1
+[2022.10.05-18.39.12:795][941]Cmd: MAP LOAD FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/L1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-18.39.12:795][941]LightingResults: New page: Lighting Build
+[2022.10.05-18.39.12:795][941]LoadErrors: New page: Loading map: L1.umap
+[2022.10.05-18.39.12:832][941]LogWorld: UWorld::CleanupWorld for L3, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.39.12:832][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.39.12:832][941]MapCheck: New page: Map Check
+[2022.10.05-18.39.12:832][941]LightingResults: New page: Lighting Build
+[2022.10.05-18.39.12:837][941]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.39.12:840][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.05-18.39.12:840][941]LogAudio: Display: Audio Device (ID: 1) registered with world 'L1'.
+[2022.10.05-18.39.12:904][941]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-18.39.12:904][941]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.39.12:911][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.05-18.39.12:916][941]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-18.39.12:917][941]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.237ms to complete.
+[2022.10.05-18.39.12:917][941]LogFileHelpers: Loading map 'L1' took 0.122
+[2022.10.05-18.39.12:929][941]AssetCheck: New page: Asset Save: L3
+[2022.10.05-18.39.12:929][941]LogContentValidation: Display: Validating World /Game/Maps/L3.L3
+[2022.10.05-18.39.19:205][691]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart3)
+[2022.10.05-18.39.28:767][808]Cmd: EDIT COPY
+[2022.10.05-18.39.29:526][899]Cmd: EDIT PASTE
+[2022.10.05-18.39.29:535][899]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.39.30:820][ 51]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.39.33:873][407]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.39.39:160][ 17]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo9)
+[2022.10.05-18.39.43:632][551]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart9)
+[2022.10.05-18.40.01:332][648]Cmd: EDIT COPY
+[2022.10.05-18.40.01:949][722]Cmd: EDIT PASTE
+[2022.10.05-18.40.01:955][722]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.40.03:534][910]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.40.05:774][164]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.40.08:084][419]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.40.09:932][632]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.40.11:387][791]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.40.13:469][ 23]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.40.18:583][625]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.40.25:270][420]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.40.28:741][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door1_polySurface6)
+[2022.10.05-18.40.30:230][988]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo10)
+[2022.10.05-18.40.34:001][438]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart10)
+[2022.10.05-18.40.39:232][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.10.05-18.40.40:400][191]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.40.40:407][191]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.05-18.40.40:546][191]LogPlayLevel: [PlayLevel] Compiling gooo before play...
+[2022.10.05-18.40.40:652][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.05-18.40.40:657][191]LogPlayLevel: PlayLevel: Blueprint regeneration took 249 ms (1 blueprints)
+[2022.10.05-18.40.40:657][191]PIE: New page: PIE session: L1 (Oct 5, 2022, 12:40:40 PM)
+[2022.10.05-18.40.40:657][191]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.40.40:667][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009807s)
+[2022.10.05-18.40.40:668][191]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.40.40:668][191]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2022.10.05-18.40.40:668][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.011093s)
+[2022.10.05-18.40.40:674][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.05-18.40.40:675][191]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.10.05-18.40.40:675][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.40.40:675][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.40.40:675][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.40.40:675][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.40.40:675][191]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.40.40:675][191]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.40.40:675][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.40.40:675][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.40.40:675][191]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-18.40.40:675][191]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-18.40.40:675][191]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-18.40.40:675][191]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.40.40:680][191]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.40.40:680][191]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.40.41:062][191]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- High Definition Audio Device)
+[2022.10.05-18.40.41:062][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.40.41:062][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.40.41:062][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.40.41:062][191]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.40.41:062][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.05-18.40.41:062][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.05-18.40.41:063][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.05-18.40.41:063][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.05-18.40.41:063][191]LogInit: FAudioDevice initialized.
+[2022.10.05-18.40.41:063][191]LogAudio: Display: Audio Device (ID: 20) registered with world 'L1'.
+[2022.10.05-18.40.41:069][191]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.40.41:072][191]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-15.40.41
+[2022.10.05-18.40.41:072][191]LogWorld: Bringing up level for play took: 0.001306
+[2022.10.05-18.40.41:072][191]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.10.05-18.40.41:075][191]PIE: Server logged in
+[2022.10.05-18.40.41:075][191]PIE: Play in editor total start time 0.671 seconds.
+[2022.10.05-18.40.44:173][561]LogNet: Browse: /Game/Maps/L3
+[2022.10.05-18.40.44:173][561]LogLoad: LoadMap: /Game/Maps/L3
+[2022.10.05-18.40.44:173][561]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.40.44:173][561]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.40.44:173][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.40.44:199][561]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.40.44:201][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.05-18.40.44:202][561]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L3
+[2022.10.05-18.40.44:206][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003854s)
+[2022.10.05-18.40.44:206][561]LogAIModule: Creating AISystem for world L3
+[2022.10.05-18.40.44:207][561]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2022.10.05-18.40.44:207][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L3.L3 to /Game/Maps/UEDPIE_0_L3.L3 (0.004809s)
+[2022.10.05-18.40.44:207][561]LogAudio: Display: Audio Device (ID: 20) registered with world 'L3'.
+[2022.10.05-18.40.44:207][561]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.40.44:208][561]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L3.L3 up for play (max tick rate 0) at 2022.10.05-15.40.44
+[2022.10.05-18.40.44:208][561]LogWorld: Bringing up level for play took: 0.000656
+[2022.10.05-18.40.44:210][561]LogLoad: Took 0.037227 seconds to LoadMap(/Game/Maps/UEDPIE_0_L3)
+[2022.10.05-18.40.46:545][840]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-18.40.46:545][840]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-18.40.46:545][840]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L3
+[2022.10.05-18.40.46:545][840]LogWorld: UWorld::CleanupWorld for L3, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.40.46:545][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.40.46:570][840]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.40.46:571][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.05-18.40.46:572][840]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.40.46:582][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010134s)
+[2022.10.05-18.40.46:583][840]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.40.46:583][840]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2022.10.05-18.40.46:583][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.011220s)
+[2022.10.05-18.40.46:583][840]LogAudio: Display: Audio Device (ID: 20) registered with world 'L1'.
+[2022.10.05-18.40.46:583][840]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.40.46:588][840]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-15.40.46
+[2022.10.05-18.40.46:589][840]LogWorld: Bringing up level for play took: 0.004600
+[2022.10.05-18.40.46:591][840]LogLoad: Took 0.045930 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.05-18.40.50:052][253]LogNet: Browse: /Game/Maps/L3
+[2022.10.05-18.40.50:052][253]LogLoad: LoadMap: /Game/Maps/L3
+[2022.10.05-18.40.50:052][253]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.40.50:052][253]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.40.50:053][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.40.50:090][253]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.40.50:092][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.05-18.40.50:093][253]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L3
+[2022.10.05-18.40.50:096][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003500s)
+[2022.10.05-18.40.50:097][253]LogAIModule: Creating AISystem for world L3
+[2022.10.05-18.40.50:097][253]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2022.10.05-18.40.50:097][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L3.L3 to /Game/Maps/UEDPIE_0_L3.L3 (0.004426s)
+[2022.10.05-18.40.50:097][253]LogAudio: Display: Audio Device (ID: 20) registered with world 'L3'.
+[2022.10.05-18.40.50:097][253]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.40.50:099][253]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L3.L3 up for play (max tick rate 0) at 2022.10.05-15.40.50
+[2022.10.05-18.40.50:099][253]LogWorld: Bringing up level for play took: 0.000660
+[2022.10.05-18.40.50:101][253]LogLoad: Took 0.048663 seconds to LoadMap(/Game/Maps/UEDPIE_0_L3)
+[2022.10.05-18.40.58:979][317]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-18.40.58:979][317]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-18.40.58:979][317]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L3
+[2022.10.05-18.40.58:979][317]LogWorld: UWorld::CleanupWorld for L3, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.40.58:979][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.40.59:030][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.40.59:032][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.05-18.40.59:033][317]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.40.59:043][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010078s)
+[2022.10.05-18.40.59:044][317]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.40.59:044][317]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2022.10.05-18.40.59:044][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.011256s)
+[2022.10.05-18.40.59:044][317]LogAudio: Display: Audio Device (ID: 20) registered with world 'L1'.
+[2022.10.05-18.40.59:044][317]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.40.59:059][317]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-15.40.59
+[2022.10.05-18.40.59:059][317]LogWorld: Bringing up level for play took: 0.014389
+[2022.10.05-18.40.59:061][317]LogLoad: Took 0.082298 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.05-18.41.04:318][945]LogNet: Browse: /Game/Maps/L3
+[2022.10.05-18.41.04:318][945]LogLoad: LoadMap: /Game/Maps/L3
+[2022.10.05-18.41.04:318][945]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.41.04:319][945]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.41.04:319][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.41.04:360][945]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.41.04:362][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.05-18.41.04:363][945]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L3
+[2022.10.05-18.41.04:367][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003557s)
+[2022.10.05-18.41.04:367][945]LogAIModule: Creating AISystem for world L3
+[2022.10.05-18.41.04:368][945]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2022.10.05-18.41.04:368][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L3.L3 to /Game/Maps/UEDPIE_0_L3.L3 (0.004542s)
+[2022.10.05-18.41.04:368][945]LogAudio: Display: Audio Device (ID: 20) registered with world 'L3'.
+[2022.10.05-18.41.04:368][945]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.41.04:369][945]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L3.L3 up for play (max tick rate 0) at 2022.10.05-15.41.04
+[2022.10.05-18.41.04:369][945]LogWorld: Bringing up level for play took: 0.000671
+[2022.10.05-18.41.04:371][945]LogLoad: Took 0.052533 seconds to LoadMap(/Game/Maps/UEDPIE_0_L3)
+[2022.10.05-18.41.05:787][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.41.05:787][109]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L3
+[2022.10.05-18.41.05:788][109]LogWorld: UWorld::CleanupWorld for L3, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.41.05:788][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.41.05:793][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.41.05:805][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.41.05:809][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.41.05:809][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-18.41.05:811][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-18.41.05:814][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.05-18.41.05:857][111]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.10.05-18.41.13:144][977]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2022.10.05-18.41.17:184][445]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo4)
+[2022.10.05-18.41.33:471][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.05-18.41.35:017][374]LogSlate: Window 'Save Content' being destroyed
+[2022.10.05-18.41.35:056][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.05-18.41.35:103][374]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L1B724791E400A43D7506FA6BE980C63EF.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/L1.umap'
+[2022.10.05-18.41.35:253][374]LogFileHelpers: Saving map 'L1' took 0.203
+[2022.10.05-18.41.35:254][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L3" FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.05-18.41.35:262][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.05-18.41.35:295][374]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L38109A0FA4D15257A06AB10B03D360EE8.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L3.umap'
+[2022.10.05-18.41.35:302][374]LogFileHelpers: Saving map 'L3' took 0.049
+[2022.10.05-18.41.35:316][374]LogLinker: Warning: [AssetLog] C:\Users\21010727\Documents\GitHub\Fecart\fecart3\Content\Maps\L2.umap: Failed to load '/Game/Maps/L2_BuiltData': Can't find file.
+[2022.10.05-18.41.35:317][374]LogLinker: Warning: [AssetLog] C:\Users\21010727\Documents\GitHub\Fecart\fecart3\Content\Maps\L2.umap: Failed to load '/Game/Maps/L2_BuiltData': Can't find file.
+[2022.10.05-18.41.35:317][374]LogLinker: Warning: [AssetLog] C:\Users\21010727\Documents\GitHub\Fecart\fecart3\Content\Maps\L2.umap: Failed to load '/Game/Maps/L2_BuiltData': Can't find file.
+[2022.10.05-18.41.35:319][374]LogLinker: Warning: [AssetLog] C:\Users\21010727\Documents\GitHub\Fecart\fecart3\Content\Maps\L2.umap: Failed to load '/Game/Maps/L2_BuiltData': Can't find file.
+[2022.10.05-18.41.35:319][374]LoadErrors: Failed to load /Game/Maps/L2_BuiltData.L2_BuiltData Referenced by PersistentLevel
+[2022.10.05-18.41.35:322][374]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/L2.L2
+[2022.10.05-18.41.35:322][374]Cmd: MAP LOAD FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-18.41.35:322][374]LightingResults: New page: Lighting Build
+[2022.10.05-18.41.35:322][374]LoadErrors: New page: Loading map: L2.umap
+[2022.10.05-18.41.35:350][374]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.41.35:350][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.41.35:350][374]MapCheck: New page: Map Check
+[2022.10.05-18.41.35:350][374]LightingResults: New page: Lighting Build
+[2022.10.05-18.41.35:355][374]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.41.35:358][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.05-18.41.35:365][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.05-18.41.35:369][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.05-18.41.35:369][374]LogAudio: Display: Audio Device (ID: 1) registered with world 'L2'.
+[2022.10.05-18.41.35:414][374]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-18.41.35:414][374]LogAIModule: Creating AISystem for world L2
+[2022.10.05-18.41.35:420][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.05-18.41.35:426][374]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-18.41.35:426][374]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.225ms to complete.
+[2022.10.05-18.41.35:426][374]LogFileHelpers: Loading map 'L2' took 0.105
+[2022.10.05-18.41.35:438][374]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-18.41.35:438][374]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/L1.L1
+[2022.10.05-18.41.35:476][374]LogContentValidation: Display: Validating World /Game/Maps/L3.L3
+[2022.10.05-18.41.42:384][178]MapCheck: New page: Map Check
+[2022.10.05-18.41.42:391][178]LightingResults: New page: Lighting Build - Oct 5, 2022, 12:41:42 PM
+[2022.10.05-18.41.42:396][178]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.10.05-18.41.42:398][178]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.10.05-18.41.42:398][178]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.10.05-18.41.42:399][178]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.10.05-18.41.42:399][178]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4184
+[2022.10.05-18.41.46:968][178]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.10.05-18.41.46:968][178]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.10.05-18.41.46:968][178]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.10.05-18.41.46:968][178]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.10.05-18.41.46:968][178]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.10.05-18.41.46:968][178]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.10.05-18.41.47:078][178]LogEditorBuildUtils: Build time 0:04
+[2022.10.05-18.41.47:084][178]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.05-18.41.47:084][178]LogShaderCompilers: Display: Total job queries 1066, among them cache hits 58 (5.44%)
+[2022.10.05-18.41.47:084][178]LogShaderCompilers: Display: Tracking 1004 distinct input hashes that result in 159 distinct outputs (15.84%)
+[2022.10.05-18.41.47:084][178]LogShaderCompilers: Display: RAM used: 0.83 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.10.05-18.41.47:084][178]LogShaderCompilers: Display: ================================================
+[2022.10.05-18.41.47:211][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.10.05-18.41.48:287][243]Job is a success!
+[2022.10.05-18.41.48:658][245]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.187s
+[2022.10.05-18.41.48:658][245]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.10.05-18.41.48:658][245]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.10.05-18.41.48:658][245]LogVolumetricLightmapImport:      Bricks at depth
+[2022.10.05-18.41.48:658][245]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2022.10.05-18.41.48:658][245]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2022.10.05-18.41.48:658][245]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2022.10.05-18.41.48:658][245]LogVolumetricLightmapImport:      Bricks in each level
+[2022.10.05-18.41.48:658][245]LogVolumetricLightmapImport:          L2 			 10 bricks 	 100.0% (Persistent Level)
+[2022.10.05-18.41.48:752][245]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2022.10.05-18.41.48:752][245]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2022.10.05-18.41.48:752][245]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2022.10.05-18.41.48:752][245]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2022.10.05-18.41.48:752][245]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2022.10.05-18.41.48:752][245]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X128)
+[2022.10.05-18.41.48:752][245]LogStaticLightingSystem: L2_BuiltData storing lightmap data for 5 meshes in 2 LightmapResourceClusters (2.5 Meshes per cluster).
+[2022.10.05-18.41.48:761][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.10.05-18.41.48:785][245]Lightmass on 321-11: 982 ms total, 116 ms importing, 33 ms setup, 63 ms photons, 713 ms processing, 0 ms extra exporting [5/5 mappings]. Threads: 7.83 sec total, 248 ms processing.
+[2022.10.05-18.41.48:825][245]LogStaticLightingSystem: Illumination: 6.35 sec (16 ms encoding lightmaps, 28 ms encoding shadowmaps)
+[2022.10.05-18.41.48:825][245]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.10.05-18.41.48:825][245]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.10.05-18.41.49:972][245]DumpUnbuiltLightIteractions
+[2022.10.05-18.41.49:972][245]Lights with unbuilt interactions: 0
+[2022.10.05-18.41.49:972][245]
+[2022.10.05-18.41.49:972][245]Primitives with unbuilt interactions: 0
+[2022.10.05-18.41.50:031][245]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.10.05-18.41.50:052][246]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.10.05-18.41.50:052][246]MapCheck: New page: L2 - Oct 5, 2022, 12:41:50 PM
+[2022.10.05-18.41.50:052][246]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.39ms to complete.
+[2022.10.05-18.42.42:898][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.10.05-18.42.46:089][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.10.05-18.42.52:738][730]Cmd: EDIT COPY
+[2022.10.05-18.42.53:381][807]Cmd: EDIT PASTE
+[2022.10.05-18.42.53:388][807]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.42.54:774][972]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.42.57:345][275]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.42.59:597][538]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo3)
+[2022.10.05-18.43.06:311][340]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start3)
+[2022.10.05-18.43.15:396][420]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2022.10.05-18.43.18:328][763]Cmd: EDIT COPY
+[2022.10.05-18.43.19:054][850]Cmd: EDIT PASTE
+[2022.10.05-18.43.19:059][850]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.43.20:403][ 10]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.43.22:734][282]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.43.24:709][509]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo4)
+[2022.10.05-18.43.31:552][312]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start4)
+[2022.10.05-18.48.24:941][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.05-18.48.26:444][489]LogSlate: Window 'Save Content' being destroyed
+[2022.10.05-18.48.26:461][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L2" FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.05-18.48.26:466][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.10.05-18.48.26:485][489]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L20F50BCC04B782F073881149FB343CB32.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L2.umap'
+[2022.10.05-18.48.26:588][489]LogFileHelpers: Saving map 'L2' took 0.127
+[2022.10.05-18.48.26:588][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L2_BuiltData" FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L2_BuiltData.uasset" SILENT=true
+[2022.10.05-18.48.26:606][489]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L2_BuiltDataA9A7865043F25CA0C7A4B5BA20D63936.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L2_BuiltData.uasset'
+[2022.10.05-18.48.26:627][489]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/L1.L1
+[2022.10.05-18.48.26:627][489]Cmd: MAP LOAD FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/L1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-18.48.26:627][489]LightingResults: New page: Lighting Build
+[2022.10.05-18.48.26:627][489]LoadErrors: New page: Loading map: L1.umap
+[2022.10.05-18.48.26:666][489]LogWorld: UWorld::CleanupWorld for L2, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.48.26:666][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.48.26:666][489]MapCheck: New page: Map Check
+[2022.10.05-18.48.26:666][489]LightingResults: New page: Lighting Build
+[2022.10.05-18.48.26:671][489]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.48.26:674][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.05-18.48.26:681][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.05-18.48.26:686][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.05-18.48.26:686][489]LogAudio: Display: Audio Device (ID: 1) registered with world 'L1'.
+[2022.10.05-18.48.26:749][489]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-18.48.26:750][489]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.48.26:757][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.05-18.48.26:763][489]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-18.48.26:763][489]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.229ms to complete.
+[2022.10.05-18.48.26:763][489]LogFileHelpers: Loading map 'L1' took 0.136
+[2022.10.05-18.48.26:774][489]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-18.48.26:774][489]LogContentValidation: Display: Validating World /Game/Maps/L2.L2
+[2022.10.05-18.48.26:783][489]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/L2_BuiltData.L2_BuiltData
+[2022.10.05-18.48.30:702][958]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo4)
+[2022.10.05-18.48.37:982][812]Cmd: EDIT COPY
+[2022.10.05-18.48.38:566][879]Cmd: EDIT PASTE
+[2022.10.05-18.48.38:575][879]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.48.41:422][219]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.48.44:241][543]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.48.47:319][892]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.48.50:315][244]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.48.55:127][812]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.48.56:392][963]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.49.03:165][773]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo11)
+[2022.10.05-18.49.09:671][548]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart11)
+[2022.10.05-18.49.14:892][153]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.05-18.49.14:897][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-18.49.14:897][153]PIE: New page: PIE session: L1 (Oct 5, 2022, 12:49:14 PM)
+[2022.10.05-18.49.14:928][153]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.49.14:937][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010356s)
+[2022.10.05-18.49.14:938][153]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.49.14:939][153]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2022.10.05-18.49.14:939][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.011619s)
+[2022.10.05-18.49.14:957][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.05-18.49.14:960][153]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.10.05-18.49.14:960][153]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-18.49.14:960][153]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-18.49.14:960][153]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-18.49.14:960][153]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-18.49.14:960][153]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-18.49.14:960][153]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.05-18.49.14:960][153]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-18.49.14:960][153]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-18.49.14:960][153]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-18.49.14:960][153]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-18.49.14:960][153]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-18.49.14:960][153]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.05-18.49.14:963][153]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.05-18.49.14:963][153]LogAudioMixer: Display: 1: FrontRight
+[2022.10.05-18.49.14:973][153]LogAudioMixer: Display: Using Audio Device Alto-falantes (3- High Definition Audio Device)
+[2022.10.05-18.49.14:973][153]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-18.49.14:973][153]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-18.49.14:973][153]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-18.49.14:974][153]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.05-18.49.14:974][153]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.05-18.49.14:974][153]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.05-18.49.14:974][153]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.05-18.49.14:974][153]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.05-18.49.14:974][153]LogInit: FAudioDevice initialized.
+[2022.10.05-18.49.14:974][153]LogAudio: Display: Audio Device (ID: 21) registered with world 'L1'.
+[2022.10.05-18.49.14:984][153]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.49.14:987][153]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-15.49.14
+[2022.10.05-18.49.14:987][153]LogWorld: Bringing up level for play took: 0.001281
+[2022.10.05-18.49.14:987][153]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.10.05-18.49.14:990][153]PIE: Server logged in
+[2022.10.05-18.49.14:990][153]PIE: Play in editor total start time 0.094 seconds.
+[2022.10.05-18.49.17:815][490]LogNet: Browse: /Game/Maps/L2
+[2022.10.05-18.49.17:816][490]LogLoad: LoadMap: /Game/Maps/L2
+[2022.10.05-18.49.17:816][490]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.49.17:816][490]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.49.17:816][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.49.17:853][490]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.49.17:854][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.05-18.49.17:855][490]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L2
+[2022.10.05-18.49.17:858][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002747s)
+[2022.10.05-18.49.17:859][490]LogAIModule: Creating AISystem for world L2
+[2022.10.05-18.49.17:859][490]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2022.10.05-18.49.17:859][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L2.L2 to /Game/Maps/UEDPIE_0_L2.L2 (0.003667s)
+[2022.10.05-18.49.17:859][490]LogAudio: Display: Audio Device (ID: 21) registered with world 'L2'.
+[2022.10.05-18.49.17:859][490]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.49.17:860][490]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L2.L2 up for play (max tick rate 0) at 2022.10.05-15.49.17
+[2022.10.05-18.49.17:860][490]LogWorld: Bringing up level for play took: 0.000425
+[2022.10.05-18.49.17:862][490]LogLoad: Took 0.046706 seconds to LoadMap(/Game/Maps/UEDPIE_0_L2)
+[2022.10.05-18.49.20:038][750]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-18.49.20:038][750]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-18.49.20:038][750]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L2
+[2022.10.05-18.49.20:039][750]LogWorld: UWorld::CleanupWorld for L2, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.49.20:039][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.49.20:072][750]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.49.20:074][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.05-18.49.20:074][750]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.49.20:085][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010352s)
+[2022.10.05-18.49.20:085][750]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.49.20:086][750]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2022.10.05-18.49.20:086][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.011425s)
+[2022.10.05-18.49.20:086][750]LogAudio: Display: Audio Device (ID: 21) registered with world 'L1'.
+[2022.10.05-18.49.20:086][750]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.49.20:090][750]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-15.49.20
+[2022.10.05-18.49.20:090][750]LogWorld: Bringing up level for play took: 0.003865
+[2022.10.05-18.49.20:092][750]LogLoad: Took 0.053933 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.05-18.49.28:562][764]LogNet: Browse: /Game/Maps/L2
+[2022.10.05-18.49.28:562][764]LogLoad: LoadMap: /Game/Maps/L2
+[2022.10.05-18.49.28:562][764]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.49.28:563][764]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.49.28:563][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.49.28:612][764]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.49.28:614][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.05-18.49.28:615][764]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L2
+[2022.10.05-18.49.28:618][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002322s)
+[2022.10.05-18.49.28:618][764]LogAIModule: Creating AISystem for world L2
+[2022.10.05-18.49.28:619][764]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2022.10.05-18.49.28:619][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L2.L2 to /Game/Maps/UEDPIE_0_L2.L2 (0.003238s)
+[2022.10.05-18.49.28:619][764]LogAudio: Display: Audio Device (ID: 21) registered with world 'L2'.
+[2022.10.05-18.49.28:619][764]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.49.28:620][764]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L2.L2 up for play (max tick rate 0) at 2022.10.05-15.49.28
+[2022.10.05-18.49.28:620][764]LogWorld: Bringing up level for play took: 0.000430
+[2022.10.05-18.49.28:622][764]LogLoad: Took 0.059461 seconds to LoadMap(/Game/Maps/UEDPIE_0_L2)
+[2022.10.05-18.49.34:141][425]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-18.49.34:141][425]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.05-18.49.34:141][425]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L2
+[2022.10.05-18.49.34:141][425]LogWorld: UWorld::CleanupWorld for L2, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.49.34:142][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.49.34:173][425]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.49.34:174][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.05-18.49.34:175][425]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.49.34:186][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010457s)
+[2022.10.05-18.49.34:187][425]LogAIModule: Creating AISystem for world L1
+[2022.10.05-18.49.34:187][425]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2022.10.05-18.49.34:187][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.011665s)
+[2022.10.05-18.49.34:187][425]LogAudio: Display: Audio Device (ID: 21) registered with world 'L1'.
+[2022.10.05-18.49.34:187][425]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.05-18.49.34:196][425]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.05-15.49.34
+[2022.10.05-18.49.34:196][425]LogWorld: Bringing up level for play took: 0.008809
+[2022.10.05-18.49.34:198][425]LogLoad: Took 0.057359 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.05-18.49.35:710][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.49.35:710][600]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.05-18.49.35:710][600]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.49.35:710][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.49.35:715][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-18.49.35:724][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.49.35:729][600]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.49.35:729][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-18.49.35:730][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.05-18.49.35:732][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-18.49.35:734][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.05-18.49.35:778][603]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.10.05-18.49.38:867][968]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.10.05-18.49.45:994][815]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart11)
+[2022.10.05-18.49.52:444][558]Cmd: EDIT COPY
+[2022.10.05-18.49.53:396][672]Cmd: EDIT PASTE
+[2022.10.05-18.49.53:402][672]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.49.54:838][843]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.49.57:708][176]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.49.59:932][435]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.50.03:524][846]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.50.06:223][160]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.50.11:404][767]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.50.18:134][558]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.05-18.50.34:678][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.05-18.50.36:495][508]LogSlate: Window 'Save Content' being destroyed
+[2022.10.05-18.50.36:528][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.10.05-18.50.36:579][508]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L1108AA2CA4CDBF748F1325E8F277B3757.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/L1.umap'
+[2022.10.05-18.50.36:627][508]LogFileHelpers: Saving map 'L1' took 0.104
+[2022.10.05-18.50.36:656][508]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/L5.L5
+[2022.10.05-18.50.36:656][508]Cmd: MAP LOAD FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Content/Maps/L5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.05-18.50.36:656][508]LightingResults: New page: Lighting Build
+[2022.10.05-18.50.36:656][508]LoadErrors: New page: Loading map: L5.umap
+[2022.10.05-18.50.36:681][508]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-18.50.36:681][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-18.50.36:681][508]MapCheck: New page: Map Check
+[2022.10.05-18.50.36:681][508]LightingResults: New page: Lighting Build
+[2022.10.05-18.50.36:686][508]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-18.50.36:688][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.05-18.50.36:695][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.05-18.50.36:700][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.05-18.50.36:700][508]LogAudio: Display: Audio Device (ID: 1) registered with world 'L5'.
+[2022.10.05-18.50.36:746][508]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.05-18.50.36:746][508]LogAIModule: Creating AISystem for world L5
+[2022.10.05-18.50.36:752][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.05-18.50.36:770][508]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.05-18.50.36:770][508]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.221ms to complete.
+[2022.10.05-18.50.36:770][508]LogFileHelpers: Loading map 'L5' took 0.114
+[2022.10.05-18.50.36:783][508]AssetCheck: New page: Asset Save: L1
+[2022.10.05-18.50.36:783][508]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/L1.L1
