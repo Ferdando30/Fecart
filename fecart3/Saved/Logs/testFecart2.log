@@ -6146,3 +6146,53 @@ SkySphereBlueprint
 [2022.10.05-19.19.49:438][220]AssetCheck: New page: Asset Save: multiple assets
 [2022.10.05-19.19.49:438][220]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/L1_BuiltData.L1_BuiltData
 [2022.10.05-19.19.49:438][220]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/L1.L1
+[2022.10.05-19.25.03:422][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.10.05-19.27.05:591][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.10.05-19.30.18:595][957]LogAssetTools: Warning: Failed to import 'C:\Users\21010727\Desktop\opa.gif'. Unknown extension 'gif'.
+[2022.10.05-19.32.03:297][394]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\21010727\Downloads\cor.jpg)
+[2022.10.05-19.32.03:311][394]LogTexture: Display: Building textures: cor (OODLE_AutoDXT, 1920X1080)
+[2022.10.05-19.32.03:344][394]LogTextureFormatOodle: Display: non-RDO encode 1920 x 1080 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.10.05-19.32.08:141][675]LogMaterial: Display: Missing cached shadermap for cor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7A6F9B69496CF3D8592986DF7558F3FEAB8B1849), compiling. 
+[2022.10.05-19.32.08:151][675]LogMaterial: Display: Material /Game/cor_Mat.cor_Mat needed to have new flag set bUsedWithStaticLighting !
+[2022.10.05-19.32.08:152][675]LogMaterial: Display: Missing cached shadermap for cor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 046E489C2C39528FA4FBF6966D7446D501F31F59), compiling. 
+[2022.10.05-19.32.08:168][675]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.10.05-19.32.08:204][676]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.10.05-19.32.08:204][676]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.05-19.32.08:204][676]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2022.10.05-19.32.08:204][676]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2022.10.05-19.32.08:204][676]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.10.05-19.32.08:204][676]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2022.10.05-19.32.08:204][676]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2022.10.05-19.32.08:204][676]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.10.05-19.32.08:204][676]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-19.32.08:204][676]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-19.32.13:346][230]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.10.05-19.32.13:346][230]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.05-19.32.13:349][230]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.05-19.32.13:349][230]LogShaderCompilers: Display: Total job queries 1091, among them cache hits 58 (5.32%)
+[2022.10.05-19.32.13:349][230]LogShaderCompilers: Display: Tracking 1005 distinct input hashes that result in 159 distinct outputs (15.82%)
+[2022.10.05-19.32.13:349][230]LogShaderCompilers: Display: RAM used: 0.83 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2022.10.05-19.32.13:349][230]LogShaderCompilers: Display: ================================================
+[2022.10.05-19.32.13:695][270]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.10.05-19.32.13:695][270]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-19.32.14:003][300]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.10.05-19.32.14:003][300]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-19.32.14:939][401]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.10.05-19.32.14:939][401]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.10.05-19.32.14:939][401]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.05-19.32.15:170][426]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/cor_Mat.cor_Mat
+[2022.10.05-19.32.15:171][426]LogMaterial: Display: Missing cached shadermap for cor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 659567D8D63CCE5F62E61EA27C9CCB51F2B8BDEB), compiling. 
+[2022.10.05-19.32.15:487][426]LogMaterial: Display: Missing cached shadermap for cor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E4F05B8512C2802CBC08FC0EA5BEB9C85EBE7240), compiling. 
+[2022.10.05-19.32.15:489][426]LogMaterial: Display: Missing cached shadermap for cor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F3705BF96937DB590928E1343D2E6CB5E61F9C6A), compiling. 
+[2022.10.05-19.32.15:491][426]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 597E909E0FB177B09269BF77A4E96337D09B65D5), compiling. 
+[2022.10.05-19.32.15:529][426]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.05-19.32.15:529][426]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.05-19.32.15:529][426]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.05-19.32.15:603][427]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.05-19.32.15:604][427]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.05-19.32.15:604][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.05-19.32.16:548][537]LogSlate: Window 'cor_Mat' being destroyed
+[2022.10.05-19.32.16:553][537]LogSlate: Window 'cor_Mat' being destroyed
+[2022.10.05-19.32.16:582][537]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-19.32.16:582][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-19.32.26:042][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
