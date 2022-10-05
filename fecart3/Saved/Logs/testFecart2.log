@@ -6196,3 +6196,18 @@ SkySphereBlueprint
 [2022.10.05-19.32.16:582][537]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
 [2022.10.05-19.32.16:582][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.10.05-19.32.26:042][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.10.05-19.32.59:223][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.05-19.32.59:633][532]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/L1_Auto795C289764BD6C5BF0B8B4ABC7A0A3586.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/Autosaves/Game/FirstPersonBP/Maps/L1_Auto7.umap'
+[2022.10.05-19.32.59:897][532]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/L1' took 0.681
+[2022.10.05-19.32.59:897][532]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.681
+[2022.10.05-19.32.59:897][532]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/cor] ([1] browsable assets)...
+[2022.10.05-19.32.59:900][532]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/cor.cor]
+[2022.10.05-19.32.59:901][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/cor]
+[2022.10.05-19.32.59:901][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cor" FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/Autosaves/Game/cor_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2022.10.05-19.33.00:219][532]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/cor_Auto756A511E349E60C44E554909217FF03F8.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/Autosaves/Game/cor_Auto7.uasset'
+[2022.10.05-19.33.00:355][532]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/cor_Mat] ([1] browsable assets)...
+[2022.10.05-19.33.00:381][532]OBJ SavePackage:     Rendered thumbnail for [Material /Game/cor_Mat.cor_Mat]
+[2022.10.05-19.33.00:381][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/cor_Mat]
+[2022.10.05-19.33.00:399][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cor_Mat" FILE="../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/Autosaves/Game/cor_Mat_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2022.10.05-19.33.00:454][532]LogSavePackage: Moving '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/cor_Mat_Auto7ECC851464622FB155FF1A799B1045172.tmp' to '../../../../../../Users/21010727/Documents/GitHub/Fecart/fecart3/Saved/Autosaves/Game/cor_Mat_Auto7.uasset'
+[2022.10.05-19.33.00:507][532]LogFileHelpers: Auto-saving content packages took 0.610
