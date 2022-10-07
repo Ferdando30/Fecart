@@ -2038,3 +2038,1127 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.07-19.10.53:537][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.10.07-19.10.53:540][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
 [2022.10.07-19.10.53:573][899]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.10.07-19.17.27:084][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.10.07-19.17.27:583][431]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/labirinto2E6925C834B10FE788ED8AEB33B8FC77B.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/labirinto2.umap'
+[2022.10.07-19.17.27:602][431]LogFileHelpers: Saving map 'labirinto2' took 0.560
+[2022.10.07-19.17.27:664][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Puzzles/Sabio/chao" FILE="../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/chao.uasset" SILENT=true
+[2022.10.07-19.17.27:670][431]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/chao6B61494143DEDD134E50439271E3EA64.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/chao.uasset'
+[2022.10.07-19.17.27:683][431]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/blue-red-check-plaid-texture-sea09F871ED48D37F44E0A4188775374739.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/blue-red-check-plaid-texture-seamless-pattern_87543-2397.uasset'
+[2022.10.07-19.17.27:699][431]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/seamless_carpet_texture_DISPE2BBAB8241733E1788BFA2A6B80E1867.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/seamless_carpet_texture_DISP.uasset'
+[2022.10.07-19.17.27:712][431]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/597b200ab5c31a88a80cbe0fdbcdce57A71AFD87432E3F46BE20659793C1A42B.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/597b200ab5c31a88a80cbe0fdbcdce57.uasset'
+[2022.10.07-19.17.27:725][431]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/wildtextures-seamless-diagonal-gD79F6BB240F663BB681E7B8A3A28D2CE.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/wildtextures-seamless-diagonal-grid-cloth-violet-green-480x480.uasset'
+[2022.10.07-19.17.27:735][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Puzzles/Sabio/fog" FILE="../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/fog.uasset" SILENT=true
+[2022.10.07-19.17.27:739][431]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/fog28F463CF46D20FB0134F03BA7ABE5459.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/fog.uasset'
+[2022.10.07-19.17.27:755][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Puzzles/Sabio/paredee" FILE="../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/paredee.uasset" SILENT=true
+[2022.10.07-19.17.27:759][431]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/paredeeCD61CB7D45072626873F23AEAE7AA1F5.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/paredee.uasset'
+[2022.10.07-19.17.27:773][431]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/5d4417e7cc24fdf3638878d750b6764bC2232BEA4F2241A2118934AF8FAE6C2A.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/5d4417e7cc24fdf3638878d750b6764b.uasset'
+[2022.10.07-19.17.27:791][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Puzzles/Sabio/NewMaterial" FILE="../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/NewMaterial.uasset" SILENT=true
+[2022.10.07-19.17.27:804][431]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/NewMaterialC9D7683C4B1A515CF3F3868FDD0F28D4.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/NewMaterial.uasset'
+[2022.10.07-19.17.27:818][431]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/5d4417e7cc24fdf3638878d750b6764b66AE3FCD4D9194106ACBAB939415969A.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/5d4417e7cc24fdf3638878d750b6764b_Mat.uasset'
+[2022.10.07-19.17.27:833][431]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/28c52cc59741aad9876fcb9abdde21e94848367A465C0930D71F4B842147F366.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/28c52cc59741aad9876fcb9abdde21e9_Mat.uasset'
+[2022.10.07-19.17.27:845][431]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/28c52cc59741aad9876fcb9abdde21e9898551574C14B57930401A95E7B81C2B.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/28c52cc59741aad9876fcb9abdde21e9.uasset'
+[2022.10.07-19.17.28:010][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.07-19.17.28:028][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.07-19.17.28:044][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.07-19.17.28:061][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.10.07-19.17.28:078][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.07-19.17.28:094][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.07-19.17.28:111][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.07-19.17.28:127][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.07-19.17.28:143][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.07-19.17.28:160][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.07-19.17.28:176][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.07-19.17.28:193][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.07-19.17.28:213][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.07-19.17.28:236][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.10.07-19.17.28:252][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.07-19.17.28:294][431]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.07-19.17.28:294][431]LogContentValidation: Display: Validating Material /Game/Puzzles/Sabio/28c52cc59741aad9876fcb9abdde21e9_Mat.28c52cc59741aad9876fcb9abdde21e9_Mat
+[2022.10.07-19.17.28:294][431]LogContentValidation: Display: Validating Texture2D /Game/Puzzles/Sabio/28c52cc59741aad9876fcb9abdde21e9.28c52cc59741aad9876fcb9abdde21e9
+[2022.10.07-19.17.28:294][431]LogContentValidation: Display: Validating Material /Game/Puzzles/Sabio/5d4417e7cc24fdf3638878d750b6764b_Mat.5d4417e7cc24fdf3638878d750b6764b_Mat
+[2022.10.07-19.17.28:294][431]LogContentValidation: Display: Validating World /Game/Puzzles/Sabio/labirinto2.labirinto2
+[2022.10.07-19.17.28:294][431]LogContentValidation: Display: Validating Material /Game/Puzzles/Sabio/paredee.paredee
+[2022.10.07-19.17.28:294][431]LogContentValidation: Display: Validating Texture2D /Game/Puzzles/Sabio/5d4417e7cc24fdf3638878d750b6764b.5d4417e7cc24fdf3638878d750b6764b
+[2022.10.07-19.17.28:294][431]LogContentValidation: Display: Validating Material /Game/Puzzles/Sabio/NewMaterial.NewMaterial
+[2022.10.07-19.17.28:294][431]LogContentValidation: Display: Validating Material /Game/Puzzles/Sabio/fog.fog
+[2022.10.07-19.17.28:294][431]LogContentValidation: Display: Validating Material /Game/Puzzles/Sabio/chao.chao
+[2022.10.07-19.17.28:294][431]LogContentValidation: Display: Validating Texture2D /Game/Puzzles/Sabio/wildtextures-seamless-diagonal-grid-cloth-violet-green-480x480.wildtextures-seamless-diagonal-grid-cloth-violet-green-480x480
+[2022.10.07-19.17.28:295][431]LogContentValidation: Display: Validating Texture2D /Game/Puzzles/Sabio/seamless_carpet_texture_DISP.seamless_carpet_texture_DISP
+[2022.10.07-19.17.28:295][431]LogContentValidation: Display: Validating Texture2D /Game/Puzzles/Sabio/blue-red-check-plaid-texture-seamless-pattern_87543-2397.blue-red-check-plaid-texture-seamless-pattern_87543-2397
+[2022.10.07-19.17.28:295][431]LogContentValidation: Display: Validating Texture2D /Game/Puzzles/Sabio/597b200ab5c31a88a80cbe0fdbcdce57.597b200ab5c31a88a80cbe0fdbcdce57
+[2022.10.07-19.17.35:029][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.10.07-19.17.35:056][  8]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Puzzles/Sabio/labirinto2.labirinto2
+[2022.10.07-19.17.35:056][  8]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/labirinto2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.07-19.17.35:056][  8]LightingResults: New page: Lighting Build
+[2022.10.07-19.17.35:056][  8]LoadErrors: New page: Loading map: labirinto2.umap
+[2022.10.07-19.17.35:058][  8]LogWorld: UWorld::CleanupWorld for L4Patio, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.17.35:058][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.17.35:058][  8]MapCheck: New page: Map Check
+[2022.10.07-19.17.35:058][  8]LightingResults: New page: Lighting Build
+[2022.10.07-19.17.35:077][  8]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.17.35:085][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.10.07-19.17.35:106][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.10.07-19.17.35:125][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.10.07-19.17.35:125][  8]LogAudio: Display: Audio Device (ID: 1) registered with world 'labirinto2'.
+[2022.10.07-19.17.35:145][  8]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.07-19.17.35:145][  8]LogAIModule: Creating AISystem for world labirinto2
+[2022.10.07-19.17.35:174][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.10.07-19.17.35:179][  8]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.07-19.17.35:179][  8]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2022.10.07-19.17.35:179][  8]LogFileHelpers: Loading map 'labirinto2' took 0.123
+[2022.10.07-19.17.37:471][247]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-19.17.37:477][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-19.17.37:477][247]PIE: New page: PIE session: labirinto2 (Oct 7, 2022, 1:17:37 PM)
+[2022.10.07-19.17.37:477][247]LogPlayLevel: Creating play world package: /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.17.37:623][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.145731s)
+[2022.10.07-19.17.37:623][247]LogAIModule: Creating AISystem for world labirinto2
+[2022.10.07-19.17.37:624][247]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2022.10.07-19.17.37:624][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Puzzles/Sabio/labirinto2.labirinto2 to /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 (0.147062s)
+[2022.10.07-19.17.37:645][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.10.07-19.17.37:647][247]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.10.07-19.17.37:647][247]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-19.17.37:647][247]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-19.17.37:647][247]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-19.17.37:647][247]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-19.17.37:647][247]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-19.17.37:647][247]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-19.17.37:647][247]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-19.17.37:647][247]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-19.17.37:647][247]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-19.17.37:647][247]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-19.17.37:647][247]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-19.17.37:647][247]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-19.17.37:651][247]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-19.17.37:651][247]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-19.17.37:663][247]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.07-19.17.37:663][247]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-19.17.37:663][247]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-19.17.37:663][247]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-19.17.37:663][247]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-19.17.37:663][247]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-19.17.37:663][247]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-19.17.37:664][247]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-19.17.37:664][247]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-19.17.37:664][247]LogInit: FAudioDevice initialized.
+[2022.10.07-19.17.37:665][247]LogAudio: Display: Audio Device (ID: 16) registered with world 'labirinto2'.
+[2022.10.07-19.17.37:672][247]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.17.37:680][247]LogWorld: Bringing World /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 up for play (max tick rate 0) at 2022.10.07-16.17.37
+[2022.10.07-19.17.37:680][247]LogWorld: Bringing up level for play took: 0.007298
+[2022.10.07-19.17.37:680][247]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.10.07-19.17.37:685][247]PIE: Server logged in
+[2022.10.07-19.17.37:685][247]PIE: Play in editor total start time 0.211 seconds.
+[2022.10.07-19.17.43:103][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.17.43:103][860]LogWorld: BeginTearingDown for /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.17.43:103][860]LogWorld: UWorld::CleanupWorld for labirinto2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.17.43:105][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.17.43:115][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-19.17.43:120][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.17.43:140][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.17.43:141][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.17.43:142][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.17.43:144][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.17.43:154][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.10.07-19.17.43:170][861]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.10.07-19.17.47:373][360]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.10.07-19.17.48:955][547]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.07-19.17.52:696][968]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.07-19.17.53:622][ 72]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-19.17.53:628][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-19.17.53:628][ 72]PIE: New page: PIE session: labirinto2 (Oct 7, 2022, 1:17:53 PM)
+[2022.10.07-19.17.53:651][ 72]LogPlayLevel: Creating play world package: /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.17.53:826][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.175330s)
+[2022.10.07-19.17.53:827][ 72]LogAIModule: Creating AISystem for world labirinto2
+[2022.10.07-19.17.53:828][ 72]LogPlayLevel: PIE: World Init took: (0.001341s)
+[2022.10.07-19.17.53:828][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Puzzles/Sabio/labirinto2.labirinto2 to /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 (0.176897s)
+[2022.10.07-19.17.53:851][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.10.07-19.17.53:852][ 72]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.10.07-19.17.53:852][ 72]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-19.17.53:852][ 72]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-19.17.53:852][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-19.17.53:852][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-19.17.53:852][ 72]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-19.17.53:852][ 72]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-19.17.53:852][ 72]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-19.17.53:852][ 72]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-19.17.53:852][ 72]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-19.17.53:852][ 72]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-19.17.53:852][ 72]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-19.17.53:852][ 72]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-19.17.53:855][ 72]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-19.17.53:855][ 72]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-19.17.53:866][ 72]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.07-19.17.53:866][ 72]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-19.17.53:866][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-19.17.53:866][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-19.17.53:867][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-19.17.53:867][ 72]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-19.17.53:867][ 72]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-19.17.53:868][ 72]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-19.17.53:868][ 72]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-19.17.53:868][ 72]LogInit: FAudioDevice initialized.
+[2022.10.07-19.17.53:868][ 72]LogAudio: Display: Audio Device (ID: 17) registered with world 'labirinto2'.
+[2022.10.07-19.17.53:873][ 72]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.17.53:880][ 72]LogWorld: Bringing World /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 up for play (max tick rate 0) at 2022.10.07-16.17.53
+[2022.10.07-19.17.53:881][ 72]LogWorld: Bringing up level for play took: 0.007023
+[2022.10.07-19.17.53:881][ 72]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.10.07-19.17.53:884][ 72]PIE: Server logged in
+[2022.10.07-19.17.53:885][ 72]PIE: Play in editor total start time 0.258 seconds.
+[2022.10.07-19.17.56:371][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.17.56:372][355]LogWorld: BeginTearingDown for /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.17.56:374][355]LogWorld: UWorld::CleanupWorld for labirinto2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.17.56:379][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.17.56:392][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-19.17.56:418][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.17.56:443][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.17.56:444][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.17.56:445][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.17.56:447][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.17.56:455][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.10.07-19.17.56:479][356]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.10.07-19.18.14:488][326]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/FirstPersonBP/Maps/LevelList.LevelList
+[2022.10.07-19.18.25:276][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/LevelList" FILE="../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/LevelList.uasset" SILENT=true
+[2022.10.07-19.18.25:276][480]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/LevelListA824BCDC42003D7EF9FFCAA48FA272ED.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/LevelList.uasset'
+[2022.10.07-19.18.25:287][480]AssetCheck: New page: Asset Save: LevelList
+[2022.10.07-19.18.25:287][480]LogContentValidation: Display: Validating UserDefinedEnum /Game/FirstPersonBP/Maps/LevelList.LevelList
+[2022.10.07-19.18.27:635][663]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.18.27:635][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.19.01:835][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.10.07-19.19.03:116][496]LogSlate: Window 'Save Content' being destroyed
+[2022.10.07-19.19.03:158][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/gooo" FILE="../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/gooo.uasset" SILENT=true
+[2022.10.07-19.19.03:166][496]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/gooo6FDCAC174AFFBB08F39389A6ED99F143.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/gooo.uasset'
+[2022.10.07-19.19.03:202][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.10.07-19.19.03:687][496]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/labirinto2070144FD423574F764A8659499F9F58B.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/labirinto2.umap'
+[2022.10.07-19.19.03:693][496]LogFileHelpers: Saving map 'labirinto2' took 0.527
+[2022.10.07-19.19.03:735][496]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/L2.L2
+[2022.10.07-19.19.03:736][496]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Maps/L2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.07-19.19.03:736][496]LightingResults: New page: Lighting Build
+[2022.10.07-19.19.03:736][496]LoadErrors: New page: Loading map: L2.umap
+[2022.10.07-19.19.03:739][496]LogWorld: UWorld::CleanupWorld for labirinto2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.19.03:740][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.19.03:740][496]MapCheck: New page: Map Check
+[2022.10.07-19.19.03:740][496]LightingResults: New page: Lighting Build
+[2022.10.07-19.19.03:758][496]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.19.03:777][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.10.07-19.19.03:779][496]LogAudio: Display: Audio Device (ID: 1) registered with world 'L2'.
+[2022.10.07-19.19.03:783][496]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.07-19.19.03:783][496]LogAIModule: Creating AISystem for world L2
+[2022.10.07-19.19.03:800][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.10.07-19.19.03:804][496]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.07-19.19.03:805][496]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2022.10.07-19.19.03:805][496]LogFileHelpers: Loading map 'L2' took 0.069
+[2022.10.07-19.19.03:824][496]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.07-19.19.03:824][496]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Maps/gooo.gooo
+[2022.10.07-19.19.03:824][496]LogContentValidation: Display: Validating World /Game/Puzzles/Sabio/labirinto2.labirinto2
+[2022.10.07-19.19.10:926][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door1_pCube7)
+[2022.10.07-19.19.14:512][730]Cmd: EDIT COPY
+[2022.10.07-19.19.15:167][807]Cmd: EDIT PASTE
+[2022.10.07-19.19.56:652][408]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.07-19.20.14:811][489]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo)
+[2022.10.07-19.20.16:555][691]Cmd: EDIT COPY
+[2022.10.07-19.20.17:957][858]Cmd: EDIT PASTE
+[2022.10.07-19.20.57:178][374]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2022.10.07-19.21.07:267][526]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.07-19.21.10:044][831]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.07-19.21.15:008][392]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.07-19.21.16:305][547]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.07-19.21.17:927][741]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.07-19.21.18:398][797]Cmd: TRANSACTION UNDO
+[2022.10.07-19.21.18:398][797]LogEditorTransaction: Undo Move Actors
+[2022.10.07-19.21.19:728][884]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.07-19.21.20:100][928]Cmd: TRANSACTION UNDO
+[2022.10.07-19.21.20:100][928]LogEditorTransaction: Undo Move Actors
+[2022.10.07-19.21.22:945][253]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.07-19.21.25:217][525]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.07-19.21.27:291][773]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.07-19.21.31:321][242]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.07-19.21.34:098][574]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.07-19.21.37:595][977]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo5)
+[2022.10.07-19.21.41:968][465]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.10.07-19.21.53:474][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.10.07-19.21.54:518][656]LogSlate: Window 'Save Content' being destroyed
+[2022.10.07-19.21.54:553][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L2" FILE="../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Maps/L2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.07-19.21.54:566][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.10.07-19.21.54:585][656]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/L2BCCAC3EE4748D0FE004A45A0E16F4DC9.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Maps/L2.umap'
+[2022.10.07-19.21.54:590][656]LogFileHelpers: Saving map 'L2' took 0.037
+[2022.10.07-19.21.54:606][656]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Puzzles/Sabio/labirinto2.labirinto2
+[2022.10.07-19.21.54:606][656]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/labirinto2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.07-19.21.54:606][656]LightingResults: New page: Lighting Build
+[2022.10.07-19.21.54:606][656]LoadErrors: New page: Loading map: labirinto2.umap
+[2022.10.07-19.21.54:633][656]LogWorld: UWorld::CleanupWorld for L2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.21.54:633][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.21.54:633][656]MapCheck: New page: Map Check
+[2022.10.07-19.21.54:633][656]LightingResults: New page: Lighting Build
+[2022.10.07-19.21.54:651][656]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.21.54:656][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.10.07-19.21.54:656][656]LogAudio: Display: Audio Device (ID: 1) registered with world 'labirinto2'.
+[2022.10.07-19.21.54:675][656]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.07-19.21.54:676][656]LogAIModule: Creating AISystem for world labirinto2
+[2022.10.07-19.21.54:699][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.10.07-19.21.54:705][656]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.07-19.21.54:705][656]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.218ms to complete.
+[2022.10.07-19.21.54:705][656]LogFileHelpers: Loading map 'labirinto2' took 0.100
+[2022.10.07-19.21.54:809][656]AssetCheck: New page: Asset Save: L2
+[2022.10.07-19.21.54:809][656]LogContentValidation: Display: Validating World /Game/Maps/L2.L2
+[2022.10.07-19.21.56:570][858]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.10.07-19.22.10:789][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.07-19.22.11:835][375]LogSlate: Window 'Save Content' being destroyed
+[2022.10.07-19.22.11:884][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.07-19.22.12:367][375]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/labirinto21FFBF2174BB7A54BCDB5A18F33F8135E.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/labirinto2.umap'
+[2022.10.07-19.22.12:373][375]LogFileHelpers: Saving map 'labirinto2' took 0.504
+[2022.10.07-19.22.12:436][375]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/L1.L1
+[2022.10.07-19.22.12:436][375]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/L1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.07-19.22.12:436][375]LightingResults: New page: Lighting Build
+[2022.10.07-19.22.12:436][375]LoadErrors: New page: Loading map: L1.umap
+[2022.10.07-19.22.12:477][375]LogWorld: UWorld::CleanupWorld for labirinto2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.22.12:478][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.22.12:480][375]MapCheck: New page: Map Check
+[2022.10.07-19.22.12:480][375]LightingResults: New page: Lighting Build
+[2022.10.07-19.22.12:498][375]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.22.12:508][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.10.07-19.22.12:532][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.07-19.22.12:545][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.07-19.22.12:545][375]LogAudio: Display: Audio Device (ID: 1) registered with world 'L1'.
+[2022.10.07-19.22.12:552][375]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.07-19.22.12:552][375]LogAIModule: Creating AISystem for world L1
+[2022.10.07-19.22.12:569][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.10.07-19.22.12:574][375]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.07-19.22.12:574][375]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2022.10.07-19.22.12:574][375]LogFileHelpers: Loading map 'L1' took 0.138
+[2022.10.07-19.22.12:587][375]AssetCheck: New page: Asset Save: labirinto2
+[2022.10.07-19.22.12:587][375]LogContentValidation: Display: Validating World /Game/Puzzles/Sabio/labirinto2.labirinto2
+[2022.10.07-19.22.13:668][462]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-19.22.13:676][462]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.07-19.22.13:676][462]LogPlayLevel: [PlayLevel] Compiling gooo before play...
+[2022.10.07-19.22.13:693][462]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2022.10.07-19.22.13:715][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.10.07-19.22.13:716][462]LogPlayLevel: PlayLevel: Blueprint regeneration took 40 ms (2 blueprints)
+[2022.10.07-19.22.13:717][462]PIE: New page: PIE session: L1 (Oct 7, 2022, 1:22:13 PM)
+[2022.10.07-19.22.13:717][462]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.07-19.22.13:733][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016312s)
+[2022.10.07-19.22.13:734][462]LogAIModule: Creating AISystem for world L1
+[2022.10.07-19.22.13:734][462]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2022.10.07-19.22.13:734][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.017525s)
+[2022.10.07-19.22.13:749][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.10.07-19.22.13:749][462]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.10.07-19.22.13:749][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-19.22.13:750][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-19.22.13:750][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-19.22.13:750][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-19.22.13:750][462]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-19.22.13:750][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-19.22.13:750][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-19.22.13:750][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-19.22.13:750][462]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-19.22.13:750][462]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-19.22.13:750][462]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-19.22.13:750][462]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-19.22.13:753][462]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-19.22.13:753][462]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-19.22.13:766][462]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.07-19.22.13:766][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-19.22.13:766][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-19.22.13:766][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-19.22.13:767][462]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-19.22.13:767][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-19.22.13:767][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-19.22.13:768][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-19.22.13:768][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-19.22.13:768][462]LogInit: FAudioDevice initialized.
+[2022.10.07-19.22.13:768][462]LogAudio: Display: Audio Device (ID: 18) registered with world 'L1'.
+[2022.10.07-19.22.13:779][462]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.22.13:781][462]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.07-16.22.13
+[2022.10.07-19.22.13:782][462]LogWorld: Bringing up level for play took: 0.001860
+[2022.10.07-19.22.13:782][462]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.10.07-19.22.13:784][462]PIE: Server logged in
+[2022.10.07-19.22.13:785][462]PIE: Play in editor total start time 0.113 seconds.
+[2022.10.07-19.22.17:252][872]LogNet: Browse: /Game/Maps/L2
+[2022.10.07-19.22.17:252][872]LogLoad: LoadMap: /Game/Maps/L2
+[2022.10.07-19.22.17:253][872]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.07-19.22.17:253][872]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.22.17:253][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.22.17:293][872]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.22.17:296][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.10.07-19.22.17:305][872]LogAudio: Display: Audio Device (ID: 18) registered with world 'L2'.
+[2022.10.07-19.22.17:306][872]LogAIModule: Creating AISystem for world L2
+[2022.10.07-19.22.17:306][872]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.22.17:308][872]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L2.L2 up for play (max tick rate 0) at 2022.10.07-16.22.17
+[2022.10.07-19.22.17:309][872]LogWorld: Bringing up level for play took: 0.002307
+[2022.10.07-19.22.17:310][872]LogLoad: Took 0.057401 seconds to LoadMap(/Game/Maps/L2)
+[2022.10.07-19.22.19:452][128]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.07-19.22.19:452][128]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.07-19.22.19:452][128]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L2
+[2022.10.07-19.22.19:452][128]LogWorld: UWorld::CleanupWorld for L2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.22.19:452][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.22.19:498][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.22.19:500][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.10.07-19.22.19:501][128]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.07-19.22.19:514][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012266s)
+[2022.10.07-19.22.19:514][128]LogAIModule: Creating AISystem for world L1
+[2022.10.07-19.22.19:515][128]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2022.10.07-19.22.19:515][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.013429s)
+[2022.10.07-19.22.19:515][128]LogAudio: Display: Audio Device (ID: 18) registered with world 'L1'.
+[2022.10.07-19.22.19:515][128]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.22.19:525][128]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.07-16.22.19
+[2022.10.07-19.22.19:525][128]LogWorld: Bringing up level for play took: 0.010159
+[2022.10.07-19.22.19:527][128]LogLoad: Took 0.075162 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.07-19.22.22:040][427]LogNet: Browse: /Game/Maps/L2
+[2022.10.07-19.22.22:040][427]LogLoad: LoadMap: /Game/Maps/L2
+[2022.10.07-19.22.22:040][427]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.07-19.22.22:040][427]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.22.22:041][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.22.22:074][427]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.22.22:077][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.07-19.22.22:085][427]LogAudio: Display: Audio Device (ID: 18) registered with world 'L2'.
+[2022.10.07-19.22.22:086][427]LogAIModule: Creating AISystem for world L2
+[2022.10.07-19.22.22:086][427]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.22.22:089][427]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L2.L2 up for play (max tick rate 0) at 2022.10.07-16.22.22
+[2022.10.07-19.22.22:089][427]LogWorld: Bringing up level for play took: 0.002380
+[2022.10.07-19.22.22:090][427]LogLoad: Took 0.050350 seconds to LoadMap(/Game/Maps/L2)
+[2022.10.07-19.22.23:490][594]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.07-19.22.23:490][594]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.07-19.22.23:490][594]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L2
+[2022.10.07-19.22.23:491][594]LogWorld: UWorld::CleanupWorld for L2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.22.23:491][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.22.23:559][594]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.22.23:562][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.10.07-19.22.23:562][594]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.07-19.22.23:575][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012130s)
+[2022.10.07-19.22.23:575][594]LogAIModule: Creating AISystem for world L1
+[2022.10.07-19.22.23:576][594]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2022.10.07-19.22.23:576][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.013349s)
+[2022.10.07-19.22.23:576][594]LogAudio: Display: Audio Device (ID: 18) registered with world 'L1'.
+[2022.10.07-19.22.23:576][594]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.22.23:583][594]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.07-16.22.23
+[2022.10.07-19.22.23:583][594]LogWorld: Bringing up level for play took: 0.006943
+[2022.10.07-19.22.23:585][594]LogLoad: Took 0.095276 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.07-19.22.29:211][267]LogNet: Browse: /Game/Maps/L2
+[2022.10.07-19.22.29:211][267]LogLoad: LoadMap: /Game/Maps/L2
+[2022.10.07-19.22.29:211][267]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.07-19.22.29:212][267]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.22.29:212][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.22.29:268][267]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.22.29:271][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.10.07-19.22.29:280][267]LogAudio: Display: Audio Device (ID: 18) registered with world 'L2'.
+[2022.10.07-19.22.29:281][267]LogAIModule: Creating AISystem for world L2
+[2022.10.07-19.22.29:281][267]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.22.29:284][267]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L2.L2 up for play (max tick rate 0) at 2022.10.07-16.22.29
+[2022.10.07-19.22.29:284][267]LogWorld: Bringing up level for play took: 0.002339
+[2022.10.07-19.22.29:286][267]LogLoad: Took 0.073911 seconds to LoadMap(/Game/Maps/L2)
+[2022.10.07-19.22.33:135][728]LogNet: Browse: /Game/Puzzles/Sabio/labirinto2
+[2022.10.07-19.22.33:135][728]LogLoad: LoadMap: /Game/Puzzles/Sabio/labirinto2
+[2022.10.07-19.22.33:135][728]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L2
+[2022.10.07-19.22.33:135][728]LogWorld: UWorld::CleanupWorld for L2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.22.33:135][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.22.33:178][728]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.22.33:181][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.07-19.22.33:182][728]LogPlayLevel: Creating play world package: /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.22.33:327][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144847s)
+[2022.10.07-19.22.33:328][728]LogAIModule: Creating AISystem for world labirinto2
+[2022.10.07-19.22.33:329][728]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2022.10.07-19.22.33:329][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Puzzles/Sabio/labirinto2.labirinto2 to /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 (0.146167s)
+[2022.10.07-19.22.33:329][728]LogAudio: Display: Audio Device (ID: 18) registered with world 'labirinto2'.
+[2022.10.07-19.22.33:329][728]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.22.33:336][728]LogWorld: Bringing World /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 up for play (max tick rate 0) at 2022.10.07-16.22.33
+[2022.10.07-19.22.33:336][728]LogWorld: Bringing up level for play took: 0.006872
+[2022.10.07-19.22.33:339][728]LogLoad: Took 0.203454 seconds to LoadMap(/Game/Puzzles/Sabio/UEDPIE_0_labirinto2)
+[2022.10.07-19.22.46:776][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.22.46:776][332]LogWorld: BeginTearingDown for /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.22.46:777][332]LogWorld: UWorld::CleanupWorld for labirinto2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.22.46:778][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.22.46:801][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-19.22.46:815][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.22.46:837][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.22.46:837][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.22.46:838][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.22.46:848][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.10.07-19.22.46:863][333]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.10.07-19.22.54:419][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.10.07-19.22.55:476][107]LogSlate: Window 'Save Content' being destroyed
+[2022.10.07-19.22.55:519][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.10.07-19.22.55:552][107]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/L13780AAEF40F5D11902AE4B917C572AE6.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/FirstPersonBP/Maps/L1.umap'
+[2022.10.07-19.22.55:557][107]LogFileHelpers: Saving map 'L1' took 0.051
+[2022.10.07-19.22.55:573][107]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Puzzles/Sabio/labirinto2.labirinto2
+[2022.10.07-19.22.55:573][107]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/labirinto2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.07-19.22.55:573][107]LightingResults: New page: Lighting Build
+[2022.10.07-19.22.55:573][107]LoadErrors: New page: Loading map: labirinto2.umap
+[2022.10.07-19.22.55:575][107]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.22.55:575][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.22.55:575][107]MapCheck: New page: Map Check
+[2022.10.07-19.22.55:575][107]LightingResults: New page: Lighting Build
+[2022.10.07-19.22.55:589][107]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.22.55:594][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.10.07-19.22.55:595][107]LogAudio: Display: Audio Device (ID: 1) registered with world 'labirinto2'.
+[2022.10.07-19.22.55:615][107]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.07-19.22.55:615][107]LogAIModule: Creating AISystem for world labirinto2
+[2022.10.07-19.22.55:639][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.07-19.22.55:644][107]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.07-19.22.55:644][107]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.222ms to complete.
+[2022.10.07-19.22.55:645][107]LogFileHelpers: Loading map 'labirinto2' took 0.072
+[2022.10.07-19.22.55:746][107]AssetCheck: New page: Asset Save: L1
+[2022.10.07-19.22.55:746][107]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/L1.L1
+[2022.10.07-19.22.58:237][331]MapCheck: New page: Map Check
+[2022.10.07-19.22.58:245][331]Cmd: MAP REBUILD ALLVISIBLE
+[2022.10.07-19.22.58:245][331]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.10.07-19.22.58:984][331]LogWorld: UWorld::CleanupWorld for labirinto2, bSessionEnded=true, bCleanupResources=false
+[2022.10.07-19.22.59:158][331]LightingResults: New page: Lighting Build - Oct 7, 2022, 1:22:59 PM
+[2022.10.07-19.22.59:210][331]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.10.07-19.22.59:214][331]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.10.07-19.22.59:214][331]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.10.07-19.22.59:216][331]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.10.07-19.22.59:216][331]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7648
+[2022.10.07-19.23.03:852][331]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2022.10.07-19.23.03:859][331]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.10.07-19.23.03:859][331]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.10.07-19.23.03:859][331]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.10.07-19.23.03:859][331]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.10.07-19.23.03:859][331]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.10.07-19.23.03:996][331]LogEditorBuildUtils: Build time 0:05
+[2022.10.07-19.23.04:006][331]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3EAF6862EE8FA6B731AD9A3883EA3F9B8F2A8CE8), compiling. 
+[2022.10.07-19.23.04:008][331]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.10.07-19.23.04:009][331]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A92F49291E7029EE8FE7BF0B68CD07405E7F3FC0), compiling. 
+[2022.10.07-19.23.04:012][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.10.07-19.23.04:012][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.10.07-19.23.04:012][331]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.10.07-19.23.04:012][331]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.10.07-19.23.04:013][331]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Texture_Atlas in PCD3D_SM5, Default, SM5 (DDC key hash: D994857532C781E39C11E7FAD08142393B106583), compiling. 
+[2022.10.07-19.23.04:015][331]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.10.07-19.23.04:016][331]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Texture_Atlas in PCD3D_SM5, Default, SM5 (DDC key hash: 0FC98987A2D3ADCAA726967A6A9F70F7249BE5E4), compiling. 
+[2022.10.07-19.23.04:026][331]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.10.07-19.23.04:030][331]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2022.10.07-19.23.04:030][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2022.10.07-19.23.04:030][331]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.10.07-19.23.04:108][332]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer chao in PCD3D_SM5, Default, SM5 (DDC key hash: D76A033E9DD6331047183962419B478B5AC7D52B), compiling. 
+[2022.10.07-19.23.04:112][332]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.10.07-19.23.04:113][332]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer chao in PCD3D_SM5, Default, SM5 (DDC key hash: 7DA4B379F24D078AB0EC7B2985F08143B4D0A19A), compiling. 
+[2022.10.07-19.23.04:115][332]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.10.07-19.23.04:116][332]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer paredee in PCD3D_SM5, Default, SM5 (DDC key hash: BE9237A26D390F08B0C21333B5E4E83B59421450), compiling. 
+[2022.10.07-19.23.04:119][332]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.10.07-19.23.04:120][332]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer paredee in PCD3D_SM5, Default, SM5 (DDC key hash: D95BD24CFCD4132E542926F41DE85CC316BD7361), compiling. 
+[2022.10.07-19.23.04:123][332]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: Total job queries 28, among them cache hits 0 (0.00%)
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: Tracking 28 distinct input hashes that result in 7 distinct outputs (25.00%)
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.07-19.23.05:280][333]LogShaderCompilers: Display: ================================================
+[2022.10.07-19.23.05:623][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.10.07-19.24.24:576][947]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2022.10.07-19.24.24:912][947]Job has failed! Job is closed while Tasks are still PENDING
+[2022.10.07-19.24.24:913][947]DumpUnbuiltLightIteractions
+[2022.10.07-19.24.24:913][947]Lights with unbuilt interactions: 164
+[2022.10.07-19.24.24:913][947]    Light PointLight_1
+[2022.10.07-19.24.24:913][947]    Light PointLight2_55
+[2022.10.07-19.24.24:913][947]    Light PointLight3_57
+[2022.10.07-19.24.24:913][947]    Light PointLight4_59
+[2022.10.07-19.24.24:913][947]    Light PointLight5_61
+[2022.10.07-19.24.24:913][947]    Light PointLight6_63
+[2022.10.07-19.24.24:913][947]    Light PointLight7_65
+[2022.10.07-19.24.24:913][947]    Light PointLight8_67
+[2022.10.07-19.24.24:913][947]    Light PointLight9_69
+[2022.10.07-19.24.24:913][947]    Light PointLight10_71
+[2022.10.07-19.24.24:913][947]    Light PointLight11_73
+[2022.10.07-19.24.24:913][947]    Light PointLight12_75
+[2022.10.07-19.24.24:913][947]    Light PointLight13_77
+[2022.10.07-19.24.24:913][947]    Light PointLight14_79
+[2022.10.07-19.24.24:913][947]    Light PointLight15_81
+[2022.10.07-19.24.24:913][947]    Light PointLight16_83
+[2022.10.07-19.24.24:913][947]    Light PointLight17_85
+[2022.10.07-19.24.24:913][947]    Light PointLight18_87
+[2022.10.07-19.24.24:913][947]    Light PointLight19
+[2022.10.07-19.24.24:913][947]    Light PointLight20_90
+[2022.10.07-19.24.24:913][947]    Light PointLight21_92
+[2022.10.07-19.24.24:913][947]    Light PointLight22_94
+[2022.10.07-19.24.24:913][947]    Light PointLight23_96
+[2022.10.07-19.24.24:913][947]    Light PointLight24_98
+[2022.10.07-19.24.24:913][947]    Light PointLight25_100
+[2022.10.07-19.24.24:913][947]    Light PointLight26_102
+[2022.10.07-19.24.24:913][947]    Light PointLight27_104
+[2022.10.07-19.24.24:913][947]    Light PointLight28_106
+[2022.10.07-19.24.24:913][947]    Light PointLight29_108
+[2022.10.07-19.24.24:913][947]    Light PointLight30_110
+[2022.10.07-19.24.24:913][947]    Light PointLight31_112
+[2022.10.07-19.24.24:913][947]    Light PointLight32_114
+[2022.10.07-19.24.24:913][947]    Light PointLight33_116
+[2022.10.07-19.24.24:913][947]    Light PointLight34_118
+[2022.10.07-19.24.24:913][947]    Light PointLight35_120
+[2022.10.07-19.24.24:913][947]    Light PointLight36_122
+[2022.10.07-19.24.24:913][947]    Light PointLight37_124
+[2022.10.07-19.24.24:913][947]    Light PointLight38_126
+[2022.10.07-19.24.24:913][947]    Light PointLight39_128
+[2022.10.07-19.24.24:913][947]    Light PointLight40_130
+[2022.10.07-19.24.24:913][947]    Light PointLight41_132
+[2022.10.07-19.24.24:913][947]    Light PointLight42_134
+[2022.10.07-19.24.24:913][947]    Light PointLight43_136
+[2022.10.07-19.24.24:913][947]    Light PointLight44_138
+[2022.10.07-19.24.24:913][947]    Light PointLight45_140
+[2022.10.07-19.24.24:913][947]    Light PointLight46_142
+[2022.10.07-19.24.24:913][947]    Light PointLight47_144
+[2022.10.07-19.24.24:913][947]    Light PointLight48_146
+[2022.10.07-19.24.24:913][947]    Light PointLight49_148
+[2022.10.07-19.24.24:913][947]    Light PointLight50_150
+[2022.10.07-19.24.24:913][947]    Light PointLight51_152
+[2022.10.07-19.24.24:913][947]    Light PointLight52
+[2022.10.07-19.24.24:913][947]    Light PointLight53
+[2022.10.07-19.24.24:913][947]    Light PointLight54
+[2022.10.07-19.24.24:913][947]    Light PointLight55
+[2022.10.07-19.24.24:913][947]    Light PointLight56
+[2022.10.07-19.24.24:914][947]    Light PointLight57
+[2022.10.07-19.24.24:914][947]    Light PointLight58
+[2022.10.07-19.24.24:914][947]    Light PointLight59
+[2022.10.07-19.24.24:914][947]    Light PointLight60
+[2022.10.07-19.24.24:914][947]    Light PointLight61
+[2022.10.07-19.24.24:914][947]    Light PointLight62
+[2022.10.07-19.24.24:914][947]    Light PointLight63
+[2022.10.07-19.24.24:914][947]    Light PointLight64
+[2022.10.07-19.24.24:914][947]    Light PointLight65
+[2022.10.07-19.24.24:914][947]    Light PointLight66
+[2022.10.07-19.24.24:914][947]    Light PointLight67
+[2022.10.07-19.24.24:914][947]    Light PointLight68
+[2022.10.07-19.24.24:914][947]    Light PointLight69
+[2022.10.07-19.24.24:914][947]    Light PointLight70
+[2022.10.07-19.24.24:914][947]    Light PointLight71
+[2022.10.07-19.24.24:914][947]    Light PointLight72
+[2022.10.07-19.24.24:914][947]    Light PointLight73
+[2022.10.07-19.24.24:914][947]    Light PointLight74
+[2022.10.07-19.24.24:914][947]    Light PointLight75
+[2022.10.07-19.24.24:914][947]    Light PointLight76
+[2022.10.07-19.24.24:914][947]    Light PointLight77
+[2022.10.07-19.24.24:914][947]    Light PointLight79
+[2022.10.07-19.24.24:914][947]    Light PointLight80
+[2022.10.07-19.24.24:914][947]    Light PointLight81
+[2022.10.07-19.24.24:914][947]    Light PointLight82
+[2022.10.07-19.24.24:914][947]    Light PointLight83
+[2022.10.07-19.24.24:914][947]    Light PointLight84
+[2022.10.07-19.24.24:914][947]    Light PointLight85
+[2022.10.07-19.24.24:914][947]    Light PointLight78_24
+[2022.10.07-19.24.24:914][947]    Light PointLight86
+[2022.10.07-19.24.24:914][947]    Light PointLight87
+[2022.10.07-19.24.24:914][947]    Light PointLight88
+[2022.10.07-19.24.24:914][947]    Light PointLight89
+[2022.10.07-19.24.24:914][947]    Light PointLight90
+[2022.10.07-19.24.24:914][947]    Light PointLight91
+[2022.10.07-19.24.24:914][947]    Light PointLight92
+[2022.10.07-19.24.24:914][947]    Light PointLight93
+[2022.10.07-19.24.24:914][947]    Light PointLight94
+[2022.10.07-19.24.24:914][947]    Light PointLight95
+[2022.10.07-19.24.24:914][947]    Light PointLight96
+[2022.10.07-19.24.24:914][947]    Light PointLight97
+[2022.10.07-19.24.24:914][947]    Light PointLight98
+[2022.10.07-19.24.24:914][947]    Light PointLight99
+[2022.10.07-19.24.24:914][947]    Light PointLight100
+[2022.10.07-19.24.24:914][947]    Light PointLight101
+[2022.10.07-19.24.24:914][947]    Light PointLight102
+[2022.10.07-19.24.24:914][947]    Light PointLight103
+[2022.10.07-19.24.24:914][947]    Light PointLight104
+[2022.10.07-19.24.24:914][947]    Light PointLight105
+[2022.10.07-19.24.24:914][947]    Light PointLight106
+[2022.10.07-19.24.24:914][947]    Light PointLight107
+[2022.10.07-19.24.24:914][947]    Light PointLight108
+[2022.10.07-19.24.24:914][947]    Light PointLight109
+[2022.10.07-19.24.24:914][947]    Light PointLight110
+[2022.10.07-19.24.24:914][947]    Light PointLight111
+[2022.10.07-19.24.24:914][947]    Light PointLight112
+[2022.10.07-19.24.24:914][947]    Light PointLight113
+[2022.10.07-19.24.24:914][947]    Light PointLight114
+[2022.10.07-19.24.24:914][947]    Light PointLight115
+[2022.10.07-19.24.24:914][947]    Light PointLight116
+[2022.10.07-19.24.24:914][947]    Light PointLight117
+[2022.10.07-19.24.24:914][947]    Light PointLight118
+[2022.10.07-19.24.24:914][947]    Light PointLight119
+[2022.10.07-19.24.24:914][947]    Light PointLight120
+[2022.10.07-19.24.24:914][947]    Light PointLight121
+[2022.10.07-19.24.24:914][947]    Light PointLight122
+[2022.10.07-19.24.24:914][947]    Light PointLight123
+[2022.10.07-19.24.24:914][947]    Light PointLight124
+[2022.10.07-19.24.24:914][947]    Light PointLight125
+[2022.10.07-19.24.24:914][947]    Light PointLight126
+[2022.10.07-19.24.24:914][947]    Light PointLight127
+[2022.10.07-19.24.24:914][947]    Light PointLight128
+[2022.10.07-19.24.24:914][947]    Light PointLight129
+[2022.10.07-19.24.24:914][947]    Light PointLight130
+[2022.10.07-19.24.24:914][947]    Light PointLight131
+[2022.10.07-19.24.24:914][947]    Light PointLight132
+[2022.10.07-19.24.24:914][947]    Light PointLight133
+[2022.10.07-19.24.24:914][947]    Light PointLight134
+[2022.10.07-19.24.24:914][947]    Light PointLight135
+[2022.10.07-19.24.24:914][947]    Light PointLight136
+[2022.10.07-19.24.24:914][947]    Light PointLight137
+[2022.10.07-19.24.24:914][947]    Light PointLight138
+[2022.10.07-19.24.24:914][947]    Light PointLight139
+[2022.10.07-19.24.24:914][947]    Light PointLight140
+[2022.10.07-19.24.24:915][947]    Light PointLight141
+[2022.10.07-19.24.24:915][947]    Light PointLight142
+[2022.10.07-19.24.24:915][947]    Light PointLight143
+[2022.10.07-19.24.24:915][947]    Light PointLight144
+[2022.10.07-19.24.24:915][947]    Light PointLight145
+[2022.10.07-19.24.24:915][947]    Light PointLight146
+[2022.10.07-19.24.24:915][947]    Light PointLight147
+[2022.10.07-19.24.24:915][947]    Light PointLight148
+[2022.10.07-19.24.24:915][947]    Light PointLight149
+[2022.10.07-19.24.24:915][947]    Light PointLight150
+[2022.10.07-19.24.24:915][947]    Light PointLight151
+[2022.10.07-19.24.24:915][947]    Light PointLight152
+[2022.10.07-19.24.24:915][947]    Light PointLight153
+[2022.10.07-19.24.24:915][947]    Light PointLight154
+[2022.10.07-19.24.24:915][947]    Light PointLight155
+[2022.10.07-19.24.24:915][947]    Light PointLight156
+[2022.10.07-19.24.24:915][947]    Light PointLight157
+[2022.10.07-19.24.24:915][947]    Light PointLight158
+[2022.10.07-19.24.24:915][947]    Light PointLight159
+[2022.10.07-19.24.24:915][947]    Light PointLight160
+[2022.10.07-19.24.24:915][947]    Light PointLight161
+[2022.10.07-19.24.24:915][947]    Light PointLight162
+[2022.10.07-19.24.24:915][947]    Light PointLight163_104
+[2022.10.07-19.24.24:915][947]    Light PointLight164
+[2022.10.07-19.24.24:915][947]
+[2022.10.07-19.24.24:915][947]Primitives with unbuilt interactions: 2
+[2022.10.07-19.24.24:915][947]    Primitive StaticMeshComponent /Game/Puzzles/Sabio/labirinto2.labirinto2:PersistentLevel.Cube_41.StaticMeshComponent0
+[2022.10.07-19.24.24:915][947]    Primitive StaticMeshComponent /Game/Puzzles/Sabio/labirinto2.labirinto2:PersistentLevel.SM_Paint_50.StaticMeshComponent0
+[2022.10.07-19.24.25:121][948]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.10.07-19.24.25:121][948]MapCheck: New page: labirinto2 - Oct 7, 2022, 1:24:25 PM
+[2022.10.07-19.24.25:123][948]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2022.10.07-19.24.25:125][948]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 3.536ms to complete.
+[2022.10.07-19.24.26:928][101]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-19.24.26:939][101]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-19.24.38:698][439]Cmd: TRANSACTION UNDO
+[2022.10.07-19.24.38:698][439]LogEditorTransaction: Undo Create Actors
+[2022.10.07-19.25.50:177][470]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight165)
+[2022.10.07-19.25.51:373][611]Cmd: DELETE
+[2022.10.07-19.25.51:373][611]Cmd: ACTOR DELETE
+[2022.10.07-19.25.51:399][611]LogEditorActor: Deleted Actor: PointLight
+[2022.10.07-19.25.51:418][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.10.07-19.25.51:428][611]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2022.10.07-19.25.54:905][ 15]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo)
+[2022.10.07-19.26.27:247][431]Cmd: EDIT COPY
+[2022.10.07-19.26.28:348][563]Cmd: EDIT PASTE
+[2022.10.07-19.26.28:358][563]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.07-19.26.46:898][720]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-19.26.46:905][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-19.26.46:905][720]PIE: New page: PIE session: labirinto2 (Oct 7, 2022, 1:26:46 PM)
+[2022.10.07-19.26.46:905][720]LogPlayLevel: Creating play world package: /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.26.47:053][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.148129s)
+[2022.10.07-19.26.47:054][720]LogAIModule: Creating AISystem for world labirinto2
+[2022.10.07-19.26.47:054][720]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2022.10.07-19.26.47:055][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Puzzles/Sabio/labirinto2.labirinto2 to /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 (0.149507s)
+[2022.10.07-19.26.47:071][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.10.07-19.26.47:077][720]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.10.07-19.26.47:077][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-19.26.47:077][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-19.26.47:077][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-19.26.47:077][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-19.26.47:077][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-19.26.47:078][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-19.26.47:078][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-19.26.47:078][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-19.26.47:078][720]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-19.26.47:078][720]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-19.26.47:078][720]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-19.26.47:078][720]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-19.26.47:082][720]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-19.26.47:082][720]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-19.26.47:093][720]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.07-19.26.47:093][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-19.26.47:093][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-19.26.47:093][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-19.26.47:094][720]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-19.26.47:094][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-19.26.47:094][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-19.26.47:095][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-19.26.47:095][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-19.26.47:095][720]LogInit: FAudioDevice initialized.
+[2022.10.07-19.26.47:095][720]LogAudio: Display: Audio Device (ID: 19) registered with world 'labirinto2'.
+[2022.10.07-19.26.47:103][720]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.26.47:111][720]LogWorld: Bringing World /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 up for play (max tick rate 0) at 2022.10.07-16.26.47
+[2022.10.07-19.26.47:111][720]LogWorld: Bringing up level for play took: 0.007244
+[2022.10.07-19.26.47:111][720]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.10.07-19.26.47:124][720]PIE: Server logged in
+[2022.10.07-19.26.47:125][720]PIE: Play in editor total start time 0.222 seconds.
+[2022.10.07-19.26.49:920][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.26.49:920][ 38]LogWorld: BeginTearingDown for /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.26.49:922][ 38]LogWorld: UWorld::CleanupWorld for labirinto2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.26.49:925][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.26.49:936][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-19.26.49:952][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.26.49:970][ 38]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.26.49:970][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.26.49:971][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.26.49:973][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.26.49:980][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.10.07-19.26.50:003][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.10.07-19.26.56:571][813]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo)
+[2022.10.07-19.27.08:888][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.10.07-19.27.09:386][118]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/labirinto26B14765440A49B594346C7B5E367B5F1.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/labirinto2.umap'
+[2022.10.07-19.27.09:404][118]AssetCheck: New page: Asset Save: labirinto2
+[2022.10.07-19.27.09:404][118]LogContentValidation: Display: Validating World /Game/Puzzles/Sabio/labirinto2.labirinto2
+[2022.10.07-19.27.23:544][734]LogEditorViewport: Clicking on Actor (LMB): Emitter (Dust_P)
+[2022.10.07-19.31.24:963][560]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-19.31.24:969][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-19.31.24:969][560]PIE: New page: PIE session: labirinto2 (Oct 7, 2022, 1:31:24 PM)
+[2022.10.07-19.31.25:001][560]LogPlayLevel: Creating play world package: /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.31.25:168][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166578s)
+[2022.10.07-19.31.25:169][560]LogAIModule: Creating AISystem for world labirinto2
+[2022.10.07-19.31.25:169][560]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2022.10.07-19.31.25:169][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Puzzles/Sabio/labirinto2.labirinto2 to /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 (0.168307s)
+[2022.10.07-19.31.25:186][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.10.07-19.31.25:195][560]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.10.07-19.31.25:195][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-19.31.25:195][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-19.31.25:195][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-19.31.25:195][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-19.31.25:195][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-19.31.25:195][560]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-19.31.25:195][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-19.31.25:195][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-19.31.25:195][560]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-19.31.25:195][560]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-19.31.25:195][560]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-19.31.25:195][560]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-19.31.25:199][560]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-19.31.25:199][560]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-19.31.25:210][560]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.07-19.31.25:211][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-19.31.25:211][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-19.31.25:211][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-19.31.25:211][560]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-19.31.25:211][560]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-19.31.25:211][560]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-19.31.25:212][560]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-19.31.25:212][560]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-19.31.25:212][560]LogInit: FAudioDevice initialized.
+[2022.10.07-19.31.25:212][560]LogAudio: Display: Audio Device (ID: 20) registered with world 'labirinto2'.
+[2022.10.07-19.31.25:222][560]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.31.25:230][560]LogWorld: Bringing World /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 up for play (max tick rate 0) at 2022.10.07-16.31.25
+[2022.10.07-19.31.25:230][560]LogWorld: Bringing up level for play took: 0.007665
+[2022.10.07-19.31.25:231][560]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.10.07-19.31.25:234][560]PIE: Server logged in
+[2022.10.07-19.31.25:235][560]PIE: Play in editor total start time 0.269 seconds.
+[2022.10.07-19.33.14:219][609]LogNet: Browse: /Game/Puzzles/Sabio/labirinto2
+[2022.10.07-19.33.14:219][609]LogLoad: LoadMap: /Game/Puzzles/Sabio/labirinto2
+[2022.10.07-19.33.14:219][609]LogWorld: BeginTearingDown for /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.33.14:220][609]LogWorld: UWorld::CleanupWorld for labirinto2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.33.14:221][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.33.14:284][609]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.33.14:290][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.10.07-19.33.14:293][609]LogPlayLevel: Creating play world package: /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.33.14:434][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.141044s)
+[2022.10.07-19.33.14:435][609]LogAIModule: Creating AISystem for world labirinto2
+[2022.10.07-19.33.14:435][609]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2022.10.07-19.33.14:435][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Puzzles/Sabio/labirinto2.labirinto2 to /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 (0.142584s)
+[2022.10.07-19.33.14:435][609]LogAudio: Display: Audio Device (ID: 20) registered with world 'labirinto2'.
+[2022.10.07-19.33.14:435][609]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.33.14:443][609]LogWorld: Bringing World /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 up for play (max tick rate 0) at 2022.10.07-16.33.14
+[2022.10.07-19.33.14:444][609]LogWorld: Bringing up level for play took: 0.007625
+[2022.10.07-19.33.14:446][609]LogLoad: Took 0.228357 seconds to LoadMap(/Game/Puzzles/Sabio/UEDPIE_0_labirinto2)
+[2022.10.07-19.33.16:131][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.33.16:131][790]LogWorld: BeginTearingDown for /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.33.16:132][790]LogWorld: UWorld::CleanupWorld for labirinto2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.33.16:135][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.33.16:145][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-19.33.16:163][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.33.16:181][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.33.16:182][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.33.16:182][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.33.16:192][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.10.07-19.33.16:218][791]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.10.07-19.33.18:954][111]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2022.10.07-19.33.41:715][680]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo2)
+[2022.10.07-19.34.39:256][205]Cmd: TRANSACTION UNDO
+[2022.10.07-19.34.39:256][205]LogEditorTransaction: Undo Scale Actors
+[2022.10.07-19.34.43:488][629]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2022.10.07-19.34.47:205][ 44]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2022.10.07-19.34.56:729][ 47]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.07-19.35.00:724][507]LogEditorViewport: Clicking on Actor (LMB): gooo_C (gooo2)
+[2022.10.07-19.35.02:811][754]Cmd: TRANSACTION UNDO
+[2022.10.07-19.35.02:811][754]LogEditorTransaction: Undo Move Actors
+[2022.10.07-19.35.05:299][973]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-19.35.05:304][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-19.35.05:304][973]PIE: New page: PIE session: labirinto2 (Oct 7, 2022, 1:35:05 PM)
+[2022.10.07-19.35.05:341][973]LogPlayLevel: Creating play world package: /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.35.05:487][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.145580s)
+[2022.10.07-19.35.05:487][973]LogAIModule: Creating AISystem for world labirinto2
+[2022.10.07-19.35.05:488][973]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2022.10.07-19.35.05:488][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Puzzles/Sabio/labirinto2.labirinto2 to /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 (0.147075s)
+[2022.10.07-19.35.05:505][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.10.07-19.35.05:513][973]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.10.07-19.35.05:513][973]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-19.35.05:513][973]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-19.35.05:513][973]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-19.35.05:513][973]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-19.35.05:513][973]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-19.35.05:513][973]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-19.35.05:513][973]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-19.35.05:513][973]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-19.35.05:514][973]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-19.35.05:514][973]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-19.35.05:514][973]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-19.35.05:514][973]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-19.35.05:517][973]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-19.35.05:517][973]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-19.35.05:528][973]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.07-19.35.05:528][973]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-19.35.05:528][973]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-19.35.05:528][973]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-19.35.05:529][973]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-19.35.05:529][973]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-19.35.05:529][973]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-19.35.05:530][973]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-19.35.05:530][973]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-19.35.05:530][973]LogInit: FAudioDevice initialized.
+[2022.10.07-19.35.05:530][973]LogAudio: Display: Audio Device (ID: 21) registered with world 'labirinto2'.
+[2022.10.07-19.35.05:536][973]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.35.05:544][973]LogWorld: Bringing World /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 up for play (max tick rate 0) at 2022.10.07-16.35.05
+[2022.10.07-19.35.05:544][973]LogWorld: Bringing up level for play took: 0.007393
+[2022.10.07-19.35.05:544][973]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.10.07-19.35.05:547][973]PIE: Server logged in
+[2022.10.07-19.35.05:548][973]PIE: Play in editor total start time 0.245 seconds.
+[2022.10.07-19.35.56:918][124]LogNet: Browse: /Game/Maps/L2
+[2022.10.07-19.35.56:918][124]LogLoad: LoadMap: /Game/Maps/L2
+[2022.10.07-19.35.56:918][124]LogWorld: BeginTearingDown for /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.35.56:919][124]LogWorld: UWorld::CleanupWorld for labirinto2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.35.56:920][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.35.56:984][124]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.35.56:993][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.10.07-19.35.57:003][124]LogAudio: Display: Audio Device (ID: 21) registered with world 'L2'.
+[2022.10.07-19.35.57:004][124]LogAIModule: Creating AISystem for world L2
+[2022.10.07-19.35.57:004][124]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.35.57:007][124]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L2.L2 up for play (max tick rate 0) at 2022.10.07-16.35.57
+[2022.10.07-19.35.57:007][124]LogWorld: Bringing up level for play took: 0.002397
+[2022.10.07-19.35.57:009][124]LogLoad: Took 0.090206 seconds to LoadMap(/Game/Maps/L2)
+[2022.10.07-19.36.00:683][564]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.07-19.36.00:683][564]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.07-19.36.00:683][564]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L2
+[2022.10.07-19.36.00:683][564]LogWorld: UWorld::CleanupWorld for L2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.36.00:683][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.36.00:728][564]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.36.00:730][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.07-19.36.00:732][564]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.07-19.36.00:746][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014259s)
+[2022.10.07-19.36.00:747][564]LogAIModule: Creating AISystem for world L1
+[2022.10.07-19.36.00:747][564]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2022.10.07-19.36.00:748][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.015761s)
+[2022.10.07-19.36.00:748][564]LogAudio: Display: Audio Device (ID: 21) registered with world 'L1'.
+[2022.10.07-19.36.00:748][564]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.36.00:753][564]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.07-16.36.00
+[2022.10.07-19.36.00:753][564]LogWorld: Bringing up level for play took: 0.004716
+[2022.10.07-19.36.00:755][564]LogLoad: Took 0.072132 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.07-19.36.11:527][853]LogNet: Browse: /Game/Maps/L3
+[2022.10.07-19.36.11:527][853]LogLoad: LoadMap: /Game/Maps/L3
+[2022.10.07-19.36.11:527][853]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.07-19.36.11:528][853]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.36.11:528][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.36.11:568][853]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.36.11:571][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.10.07-19.36.11:579][853]LogAudio: Display: Audio Device (ID: 21) registered with world 'L3'.
+[2022.10.07-19.36.11:580][853]LogAIModule: Creating AISystem for world L3
+[2022.10.07-19.36.11:580][853]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.36.11:586][853]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L3.L3 up for play (max tick rate 0) at 2022.10.07-16.36.11
+[2022.10.07-19.36.11:586][853]LogWorld: Bringing up level for play took: 0.005058
+[2022.10.07-19.36.11:588][853]LogLoad: Took 0.059175 seconds to LoadMap(/Game/Maps/L3)
+[2022.10.07-19.36.13:853][124]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.07-19.36.13:853][124]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.07-19.36.13:853][124]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L3
+[2022.10.07-19.36.13:853][124]LogWorld: UWorld::CleanupWorld for L3, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.36.13:854][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.36.13:898][124]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.36.13:901][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.10.07-19.36.13:901][124]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.07-19.36.13:913][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011385s)
+[2022.10.07-19.36.13:914][124]LogAIModule: Creating AISystem for world L1
+[2022.10.07-19.36.13:914][124]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2022.10.07-19.36.13:914][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.012807s)
+[2022.10.07-19.36.13:914][124]LogAudio: Display: Audio Device (ID: 21) registered with world 'L1'.
+[2022.10.07-19.36.13:914][124]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.36.13:921][124]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.07-16.36.13
+[2022.10.07-19.36.13:921][124]LogWorld: Bringing up level for play took: 0.007318
+[2022.10.07-19.36.13:923][124]LogLoad: Took 0.070259 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.07-19.36.19:842][832]LogNet: Browse: /Game/Maps/L3
+[2022.10.07-19.36.19:842][832]LogLoad: LoadMap: /Game/Maps/L3
+[2022.10.07-19.36.19:842][832]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.07-19.36.19:842][832]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.36.19:843][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.36.19:887][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.36.19:890][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.07-19.36.19:898][832]LogAudio: Display: Audio Device (ID: 21) registered with world 'L3'.
+[2022.10.07-19.36.19:899][832]LogAIModule: Creating AISystem for world L3
+[2022.10.07-19.36.19:899][832]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.36.19:904][832]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L3.L3 up for play (max tick rate 0) at 2022.10.07-16.36.19
+[2022.10.07-19.36.19:905][832]LogWorld: Bringing up level for play took: 0.004998
+[2022.10.07-19.36.19:906][832]LogLoad: Took 0.064126 seconds to LoadMap(/Game/Maps/L3)
+[2022.10.07-19.37.11:908][ 67]LogNet: Browse: /Game/FirstPersonBP/Maps/L1
+[2022.10.07-19.37.11:908][ 67]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/L1
+[2022.10.07-19.37.11:908][ 67]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L3
+[2022.10.07-19.37.11:908][ 67]LogWorld: UWorld::CleanupWorld for L3, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.37.11:908][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.37.11:966][ 67]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.37.11:969][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.07-19.37.11:971][ 67]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.07-19.37.11:983][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011684s)
+[2022.10.07-19.37.11:984][ 67]LogAIModule: Creating AISystem for world L1
+[2022.10.07-19.37.11:984][ 67]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2022.10.07-19.37.11:984][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/L1.L1 to /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 (0.012935s)
+[2022.10.07-19.37.11:984][ 67]LogAudio: Display: Audio Device (ID: 21) registered with world 'L1'.
+[2022.10.07-19.37.11:984][ 67]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.37.11:994][ 67]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2022.10.07-16.37.11
+[2022.10.07-19.37.11:994][ 67]LogWorld: Bringing up level for play took: 0.009528
+[2022.10.07-19.37.11:996][ 67]LogLoad: Took 0.088714 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_L1)
+[2022.10.07-19.37.13:901][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.37.13:901][287]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_L1
+[2022.10.07-19.37.13:902][287]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.37.13:904][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.37.13:923][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-19.37.13:945][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.37.13:961][287]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.37.13:961][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.37.13:962][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.37.13:965][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.37.13:967][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.10.07-19.37.13:988][288]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.10.07-19.37.24:185][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.10.07-19.37.26:243][398]LogSlate: Window 'Save Content' being destroyed
+[2022.10.07-19.37.26:291][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.10.07-19.37.26:776][398]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/labirinto2860176274FE926AB4A4AC0AE4DF0C7BB.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/labirinto2.umap'
+[2022.10.07-19.37.26:782][398]LogFileHelpers: Saving map 'labirinto2' took 0.505
+[2022.10.07-19.37.26:822][398]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Puzzles/Sabio/labirinto2.labirinto2
+[2022.10.07-19.37.26:822][398]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/labirinto2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.07-19.37.26:822][398]LightingResults: New page: Lighting Build
+[2022.10.07-19.37.26:822][398]LoadErrors: New page: Loading map: labirinto2.umap
+[2022.10.07-19.37.26:827][398]LogWorld: UWorld::CleanupWorld for labirinto2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.37.26:827][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.37.26:827][398]MapCheck: New page: Map Check
+[2022.10.07-19.37.26:827][398]LightingResults: New page: Lighting Build
+[2022.10.07-19.37.26:844][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.37.26:849][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.10.07-19.37.26:876][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.10.07-19.37.26:890][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.10.07-19.37.27:020][398]LogAudio: Display: Audio Device (ID: 1) registered with world 'labirinto2'.
+[2022.10.07-19.37.27:020][398]LogAIModule: Creating AISystem for world labirinto2
+[2022.10.07-19.37.27:087][398]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.07-19.37.27:141][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.10.07-19.37.27:145][398]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.07-19.37.27:145][398]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
+[2022.10.07-19.37.27:146][398]LogFileHelpers: Loading map 'labirinto2' took 0.323
+[2022.10.07-19.37.27:162][398]AssetCheck: New page: Asset Save: labirinto2
+[2022.10.07-19.37.27:162][398]LogContentValidation: Display: Validating World /Game/Puzzles/Sabio/labirinto2.labirinto2
+[2022.10.07-19.37.42:388][989]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.10.07-19.37.46:168][410]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.10.07-19.38.22:243][521]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.07-19.38.44:102][990]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-19.38.44:107][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-19.38.44:107][990]PIE: New page: PIE session: labirinto2 (Oct 7, 2022, 1:38:44 PM)
+[2022.10.07-19.38.44:140][990]LogPlayLevel: Creating play world package: /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.38.44:285][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144281s)
+[2022.10.07-19.38.44:285][990]LogAIModule: Creating AISystem for world labirinto2
+[2022.10.07-19.38.44:286][990]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2022.10.07-19.38.44:286][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Puzzles/Sabio/labirinto2.labirinto2 to /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 (0.145667s)
+[2022.10.07-19.38.44:302][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.10.07-19.38.44:309][990]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.10.07-19.38.44:309][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-19.38.44:310][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-19.38.44:310][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-19.38.44:310][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-19.38.44:310][990]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-19.38.44:310][990]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-19.38.44:310][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-19.38.44:310][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-19.38.44:310][990]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-19.38.44:310][990]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-19.38.44:310][990]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-19.38.44:310][990]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-19.38.44:313][990]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-19.38.44:313][990]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-19.38.44:324][990]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.07-19.38.44:324][990]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-19.38.44:324][990]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-19.38.44:324][990]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-19.38.44:325][990]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-19.38.44:325][990]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-19.38.44:325][990]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-19.38.44:325][990]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-19.38.44:325][990]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-19.38.44:325][990]LogInit: FAudioDevice initialized.
+[2022.10.07-19.38.44:326][990]LogAudio: Display: Audio Device (ID: 22) registered with world 'labirinto2'.
+[2022.10.07-19.38.44:344][990]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.38.44:352][990]LogWorld: Bringing World /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 up for play (max tick rate 0) at 2022.10.07-16.38.44
+[2022.10.07-19.38.44:352][990]LogWorld: Bringing up level for play took: 0.007581
+[2022.10.07-19.38.44:353][990]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.10.07-19.38.44:356][990]PIE: Server logged in
+[2022.10.07-19.38.44:356][990]PIE: Play in editor total start time 0.251 seconds.
+[2022.10.07-19.38.46:321][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.38.46:321][205]LogWorld: BeginTearingDown for /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.38.46:324][205]LogWorld: UWorld::CleanupWorld for labirinto2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.38.46:328][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.38.46:342][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-19.38.46:365][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.38.46:383][205]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.07-19.38.46:383][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.38.46:384][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.38.46:386][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.38.46:393][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.10.07-19.38.46:419][206]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.10.07-19.38.49:942][604]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-19.38.49:948][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-19.38.49:948][604]PIE: New page: PIE session: labirinto2 (Oct 7, 2022, 1:38:49 PM)
+[2022.10.07-19.38.49:981][604]LogPlayLevel: Creating play world package: /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.38.50:132][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151232s)
+[2022.10.07-19.38.50:133][604]LogAIModule: Creating AISystem for world labirinto2
+[2022.10.07-19.38.50:133][604]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2022.10.07-19.38.50:133][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Puzzles/Sabio/labirinto2.labirinto2 to /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 (0.152822s)
+[2022.10.07-19.38.50:149][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.07-19.38.50:151][604]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.10.07-19.38.50:151][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-19.38.50:151][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-19.38.50:151][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-19.38.50:151][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-19.38.50:151][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-19.38.50:151][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-19.38.50:151][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-19.38.50:151][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-19.38.50:152][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-19.38.50:152][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-19.38.50:152][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-19.38.50:152][604]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-19.38.50:155][604]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-19.38.50:155][604]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-19.38.50:164][604]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.07-19.38.50:165][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-19.38.50:165][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-19.38.50:165][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-19.38.50:165][604]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-19.38.50:165][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-19.38.50:165][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-19.38.50:166][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-19.38.50:166][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-19.38.50:166][604]LogInit: FAudioDevice initialized.
+[2022.10.07-19.38.50:166][604]LogAudio: Display: Audio Device (ID: 23) registered with world 'labirinto2'.
+[2022.10.07-19.38.50:172][604]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.10.07-19.38.50:179][604]LogWorld: Bringing World /Game/Puzzles/Sabio/UEDPIE_0_labirinto2.labirinto2 up for play (max tick rate 0) at 2022.10.07-16.38.50
+[2022.10.07-19.38.50:180][604]LogWorld: Bringing up level for play took: 0.007397
+[2022.10.07-19.38.50:180][604]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.10.07-19.38.50:183][604]PIE: Server logged in
+[2022.10.07-19.38.50:184][604]PIE: Play in editor total start time 0.237 seconds.
+[2022.10.07-19.38.55:602][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.38.55:602][234]LogWorld: BeginTearingDown for /Game/Puzzles/Sabio/UEDPIE_0_labirinto2
+[2022.10.07-19.38.55:603][234]LogWorld: UWorld::CleanupWorld for labirinto2, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-19.38.55:604][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.38.55:615][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-19.38.55:626][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-19.38.55:642][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-19.38.55:644][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.38.55:645][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-19.38.55:654][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.10.07-19.38.55:681][235]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.10.07-19.39.02:967][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.10.07-19.39.03:454][ 17]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Saved/labirinto25092CC52483E5D683551E9A84C8BDD6D.tmp' to '../../../../../../Users/user/Documents/GitHub/Fecart/fecart3/Content/Puzzles/Sabio/labirinto2.umap'
+[2022.10.07-19.39.03:470][ 17]AssetCheck: New page: Asset Save: labirinto2
+[2022.10.07-19.39.03:470][ 17]LogContentValidation: Display: Validating World /Game/Puzzles/Sabio/labirinto2.labirinto2
